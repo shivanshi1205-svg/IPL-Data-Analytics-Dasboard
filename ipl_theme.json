@@ -1,0 +1,56 @@
+{
+  "name": "TATA IPL Official Theme",
+  "dataColors": [
+    "#FFC107",
+    "#1B9CFC",
+    "#112140",
+    "#2ED573",
+    "#FF4757",
+    "#FFA502",
+    "#747D8C",
+    "#A4B0BE"
+  ],
+  "background": "#061129",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#FFC107",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#112140"
+              }
+            },
+            "transparency": 10
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#1F3A60"
+              }
+            },
+            "width": 1
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "fontSize": 12,
+            "fontFamily": "Outfit"
+          }
+        ]
+      }
+    }
+  }
+}

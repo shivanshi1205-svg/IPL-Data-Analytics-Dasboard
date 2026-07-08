@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPL Insights Hub (2008–2026)</title>
+    <!-- Google Fonts: Inter and Outfit -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="logo-area">
+                <img class="main-ipl-logo" src="assets/tata_ipl_logo.png" alt="IPL Logo">
+                <h1 class="logo-text">IPL Analytics</h1>
+            </div>
+            <nav class="nav-links">
+                <button class="nav-btn active" data-tab="overview">
+                    <span class="btn-icon">📊</span> Overview
+                </button>
+                <button class="nav-btn" data-tab="teams">
+                    <span class="btn-icon">🛡️</span> Team H2H
+                </button>
+                <button class="nav-btn" data-tab="players">
+                    <span class="btn-icon">👤</span> Player Stats
+                </button>
+                <button class="nav-btn" data-tab="venues">
+                    <span class="btn-icon">🏟️</span> Venue Analysis
+                </button>
+            </nav>
+            
+            <!-- Sidebar Footer & Partners -->
+            <div class="sidebar-footer">
+                <div class="partner-area">
+                    <span class="partner-label">Data Resources</span>
+                    <div class="partner-logos">
+                        <a href="https://www.espncricinfo.com" target="_blank">
+                            <img class="partner-logo" src="assets/espncricinfo_logo.png" alt="ESPNcricinfo">
+                        </a>
+                        <a href="https://www.cricbuzz.com" target="_blank">
+                            <img class="partner-logo" src="assets/cricbuzz_logo.png" alt="Cricbuzz">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="social-share-section">
+                    <span class="portfolio-tag">Follow Tournament</span>
+                    <div class="social-links">
+                        <a href="https://x.com/ipl" target="_blank">
+                            <img class="social-icon" src="assets/x_logo.png" alt="X">
+                        </a>
+                        <a href="https://facebook.com/ipl" target="_blank">
+                            <img class="social-icon" src="assets/facebook_logo.png" alt="Facebook">
+                        </a>
+                        <a href="https://instagram.com/ipl" target="_blank">
+                            <img class="social-icon" src="assets/instagram_logo.png" alt="Instagram">
+                        </a>
+                        <a href="https://youtube.com/ipl" target="_blank">
+                            <img class="social-icon" src="assets/youtube_logo.png" alt="YouTube">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Header bar with official background banner -->
+            <header class="header">
+                <div class="header-title-bar">
+                    <h2 id="page-title">IPL ANALYSIS (2008 - 2026)</h2>
+                </div>
+            </header>
+
+            <!-- TAB 1: OVERVIEW -->
+            <section id="tab-overview" class="tab-section active">
+                
+                <!-- Top Section: Champions, Runner Up, and Season Slicer -->
+                <div class="overview-top-row">
+                    <div class="champ-runner-container">
+                        <!-- Champions Card -->
+                        <div class="award-winner-card champions-accent">
+                            <div class="winner-logo-container">
+                                <img id="overview-champ-logo" src="" alt="Champion Logo">
+                            </div>
+                            <div class="winner-info">
+                                <span class="winner-label">Champions</span>
+                                <h3 id="overview-champ-name">Kolkata Knight Riders</h3>
+                            </div>
+                        </div>
+
+                        <!-- Runner Up Card -->
+                        <div class="award-winner-card runner-up-accent">
+                            <div class="winner-logo-container">
+                                <img id="overview-runner-logo" src="" alt="Runner Up Logo">
+                            </div>
+                            <div class="winner-info">
+                                <span class="winner-label">Runner Up</span>
+                                <h3 id="overview-runner-name">Sunrisers Hyderabad</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Season Slicer Box (Top Right) -->
+                    <div class="season-slicer-card">
+                        <label for="season-select" class="slicer-label">season</label>
+                        <select id="season-select" class="custom-select season-dropdown-field">
+                            <option value="All">All</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Middle Section: 7 Horizontal KPI Cards -->
+                <div class="kpi-banner-strip">
+                    <div class="kpi-strip-card">
+                        <span class="kpi-strip-label">Total 6's</span>
+                        <span class="kpi-strip-value" id="kpi-sixes">-</span>
+                    </div>
+                    <div class="kpi-strip-card">
+                        <span class="kpi-strip-label">Total 4's</span>
+                        <span class="kpi-strip-value" id="kpi-fours">-</span>
+                    </div>
+                    <div class="kpi-strip-card">
+                        <span class="kpi-strip-label">Total Matches</span>
+                        <span class="kpi-strip-value" id="kpi-matches">-</span>
+                    </div>
+                    <div class="kpi-strip-card">
+                        <span class="kpi-strip-label">Total Teams</span>
+                        <span class="kpi-strip-value" id="kpi-teams">-</span>
+                    </div>
+                    <div class="kpi-strip-card">
+                        <span class="kpi-strip-label">Centuries</span>
+                        <span class="kpi-strip-value" id="kpi-centuries">-</span>
+                    </div>
+                    <div class="kpi-strip-card">
+                        <span class="kpi-strip-label">Half Centuries</span>
+                        <span class="kpi-strip-value" id="kpi-half-centuries">-</span>
+                    </div>
+                    <div class="kpi-strip-card">
+                        <span class="kpi-strip-label">Total Venues</span>
+                        <span class="kpi-strip-value" id="kpi-venues">-</span>
+                    </div>
+                </div>
+
+                <!-- Bottom Section: Split (Left: 4 Cap Cards | Right: Points Table) -->
+                <div class="overview-bottom-grid">
+                    <!-- Left Column: Cap Stats Cards -->
+                    <div class="player-caps-column">
+                        
+                        <!-- Orange Cap Stats -->
+                        <div class="cap-status-card cap-orange">
+                            <div class="cap-header-tag orange-tag">
+                                <span>Orange Cap Stats</span>
+                                <img class="cap-icon-img" src="assets/orange_cap.png" alt="Orange Cap">
+                            </div>
+                            <div class="cap-body">
+                                <div class="cap-stat-info">
+                                    <span class="cap-info-label">Player Name</span>
+                                    <h4 class="cap-info-value" id="orange-player-name">-</h4>
+                                    <span class="cap-info-label mt-2">Total Runs</span>
+                                    <h4 class="cap-info-value accent-runs" id="orange-player-runs">-</h4>
+                                    <span class="cap-team-name" id="orange-player-team">-</span>
+                                </div>
+                                <div class="cap-player-image-wrap">
+                                    <img id="orange-player-image" class="cap-player-cutout" referrerpolicy="no-referrer" src="" alt="Orange Cap Player">
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Purple Cap Stats -->
+                        <div class="cap-status-card cap-purple">
+                            <div class="cap-header-tag purple-tag">
+                                <span>Purple Cap Stats</span>
+                                <img class="cap-icon-img" src="assets/purple_cap.png" alt="Purple Cap">
+                            </div>
+                            <div class="cap-body">
+                                <div class="cap-stat-info">
+                                    <span class="cap-info-label">Player Name</span>
+                                    <h4 class="cap-info-value" id="purple-player-name">-</h4>
+                                    <span class="cap-info-label mt-2">Total Wickets</span>
+                                    <h4 class="cap-info-value accent-wickets" id="purple-player-wickets">-</h4>
+                                    <span class="cap-team-name" id="purple-player-team">-</span>
+                                </div>
+                                <div class="cap-player-image-wrap">
+                                    <img id="purple-player-image" class="cap-player-cutout" referrerpolicy="no-referrer" src="" alt="Purple Cap Player">
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Total Fours -->
+                        <div class="cap-status-card cap-fours">
+                            <div class="cap-header-tag fours-tag">
+                                <span>Total Fours</span>
+                            </div>
+                            <div class="cap-body">
+                                <div class="cap-stat-info">
+                                    <span class="cap-info-label">Player Name</span>
+                                    <h4 class="cap-info-value" id="fours-player-name">-</h4>
+                                    <span class="cap-info-label mt-2">Total Fours</span>
+                                    <h4 class="cap-info-value accent-runs" id="fours-player-count">-</h4>
+                                    <span class="cap-team-name" id="fours-player-team">-</span>
+                                </div>
+                                <div class="cap-player-image-wrap">
+                                    <img id="fours-player-image" class="cap-player-cutout" referrerpolicy="no-referrer" src="" alt="Most Fours Player">
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Total Sixes -->
+                        <div class="cap-status-card cap-sixes">
+                            <div class="cap-header-tag sixes-tag">
+                                <span>Total Sixes</span>
+                            </div>
+                            <div class="cap-body">
+                                <div class="cap-stat-info">
+                                    <span class="cap-info-label">Player Name</span>
+                                    <h4 class="cap-info-value" id="sixes-player-name">-</h4>
+                                    <span class="cap-info-label mt-2">Total Sixes</span>
+                                    <h4 class="cap-info-value accent-runs" id="sixes-player-count">-</h4>
+                                    <span class="cap-team-name" id="sixes-player-team">-</span>
+                                </div>
+                                <div class="cap-player-image-wrap">
+                                    <img id="sixes-player-image" class="cap-player-cutout" referrerpolicy="no-referrer" src="" alt="Most Sixes Player">
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!-- Right Column: Points Table -->
+                    <div class="points-table-card">
+                        <div class="chart-header">
+                            <h3>Points Table</h3>
+                        </div>
+                        <div class="table-wrapper points-table-wrapper">
+                            <table id="overview-points-table" class="premium-table points-grid-table">
+                                <thead>
+                                    <tr>
+                                        <th>Logo</th>
+                                        <th>Team Name</th>
+                                        <th>Pld</th>
+                                        <th>Won</th>
+                                        <th>Lost</th>
+                                        <th>NR</th>
+                                        <th>Points</th>
+                                    </tr>
+                                </thead>
+                                <tbody></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+
+            <!-- TAB 2: TEAMS H2H -->
+            <section id="tab-teams" class="tab-section">
+                <!-- Dual Selectors -->
+                <div class="h2h-selector-bar">
+                    <div class="selector-box">
+                        <label for="team-a-select">Select Franchise A:</label>
+                        <select id="team-a-select" class="custom-select team-select-input"></select>
+                    </div>
+                    <div class="versus-divider">VS</div>
+                    <div class="selector-box">
+                        <label for="team-b-select">Select Franchise B:</label>
+                        <select id="team-b-select" class="custom-select team-select-input"></select>
+                    </div>
+                </div>
+
+                <!-- H2H Output Panels -->
+                <div class="h2h-stats-layout">
+                    <div class="h2h-summary-card">
+                        <div class="h2h-metric-ring">
+                            <span class="h2h-total-label">Head-to-Head Played</span>
+                            <span class="h2h-total-value" id="h2h-total-played">0</span>
+                        </div>
+                        <div class="h2h-split-container">
+                            <div class="h2h-team-stat team-a-accent">
+                                <div class="team-logo-container">
+                                    <img id="team-a-logo" class="team-logo-img" src="" alt="Team A Logo">
+                                </div>
+                                <span class="h2h-team-name" id="h2h-team-a-label">Team A</span>
+                                <span class="h2h-team-score" id="h2h-team-a-wins">0</span>
+                                <span class="h2h-team-win-pct" id="h2h-team-a-pct">0%</span>
+                            </div>
+                            <div class="h2h-team-stat team-b-accent">
+                                <div class="team-logo-container">
+                                    <img id="team-b-logo" class="team-logo-img" src="" alt="Team B Logo">
+                                </div>
+                                <span class="h2h-team-name" id="h2h-team-b-label">Team B</span>
+                                <span class="h2h-team-score" id="h2h-team-b-wins">0</span>
+                                <span class="h2h-team-win-pct" id="h2h-team-b-pct">0%</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="chart-container-card h2h-chart-card">
+                        <div class="chart-header">
+                            <h3>Wins Comparison Chart</h3>
+                        </div>
+                        <div class="chart-wrapper donut-wrapper">
+                            <canvas id="chart-h2h-split"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- TAB 3: PLAYERS -->
+            <section id="tab-players" class="tab-section">
+                <!-- Mode Toggle Header -->
+                <div class="player-toggle-bar">
+                    <div class="toggle-pill-buttons">
+                        <button class="toggle-btn active" data-mode="batting">🏏 Batting Leaders</button>
+                        <button class="toggle-btn" data-mode="bowling">🥎 Bowling Leaders</button>
+                    </div>
+                </div>
+
+                <!-- Batting Stats View -->
+                <div id="player-batting-view" class="player-sub-view active">
+                    <div class="player-grid-layout">
+                        <!-- Top 10 Batters Chart -->
+                        <div class="chart-container-card">
+                            <div class="chart-header">
+                                <h3>Top 10 Batsmen (Total Runs Scored)</h3>
+                            </div>
+                            <div class="chart-wrapper">
+                                <canvas id="chart-top-batters"></canvas>
+                            </div>
+                        </div>
+                        <!-- Full Table Grid -->
+                        <div class="table-container-card">
+                            <div class="chart-header">
+                                <h3>Batting Performance Leaderboard</h3>
+                            </div>
+                            <div class="table-wrapper">
+                                <table id="batting-table" class="premium-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Rank</th>
+                                            <th>Photo</th>
+                                            <th>Batter</th>
+                                            <th>Runs</th>
+                                            <th>Balls</th>
+                                            <th>SR</th>
+                                            <th>Avg</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody></tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Bowling Stats View -->
+                <div id="player-bowling-view" class="player-sub-view">
+                    <div class="player-grid-layout">
+                        <!-- Top 10 Bowlers Chart -->
+                        <div class="chart-container-card">
+                            <div class="chart-header">
+                                <h3>Top 10 Bowlers (Total Wickets Taken)</h3>
+                            </div>
+                            <div class="chart-wrapper">
+                                <canvas id="chart-top-bowlers"></canvas>
+                            </div>
+                        </div>
+                        <!-- Full Table Grid -->
+                        <div class="table-container-card">
+                            <div class="chart-header">
+                                <h3>Bowling Performance Leaderboard</h3>
+                            </div>
+                            <div class="table-wrapper">
+                                <table id="bowling-table" class="premium-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Rank</th>
+                                            <th>Photo</th>
+                                            <th>Bowler</th>
+                                            <th>Wickets</th>
+                                            <th>Balls</th>
+                                            <th>Runs</th>
+                                            <th>Econ</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody></tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- TAB 4: VENUES -->
+            <section id="tab-venues" class="tab-section">
+                <div class="venues-grid-layout">
+                    <div class="table-container-card span-all">
+                        <div class="chart-header">
+                            <h3>Venue Matches & Winning Margins Analysis</h3>
+                        </div>
+                        <div class="table-wrapper">
+                            <table id="venue-table" class="premium-table">
+                                <thead>
+                                    <tr>
+                                        <th>Venue Name</th>
+                                        <th>Matches Hosted</th>
+                                        <th>Average Win Margin (Runs/Wkts)</th>
+                                        <th>Activity Status</th>
+                                    </tr>
+                                </thead>
+                                <tbody></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Main JavaScript Logic -->
+    <script src="app.js"></script>
+</body>
+</html>

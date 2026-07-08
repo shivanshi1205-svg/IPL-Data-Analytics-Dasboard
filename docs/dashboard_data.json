@@ -1,0 +1,4873 @@
+{
+  "teams": [
+    "Chennai Super Kings",
+    "Delhi Capitals",
+    "Gujarat Lions",
+    "Gujarat Titans",
+    "Kochi Tuskers Kerala",
+    "Kolkata Knight Riders",
+    "Lucknow Super Giants",
+    "Mumbai Indians",
+    "Pune Warriors",
+    "Punjab Kings",
+    "Rajasthan Royals",
+    "Rising Pune Supergiant",
+    "Royal Challengers Bangalore",
+    "Sunrisers Hyderabad"
+  ],
+  "h2h": [
+    {
+      "TeamA": "Chennai Super Kings",
+      "TeamB": "Delhi Capitals",
+      "Played": 32,
+      "WinsA": 19,
+      "WinsB": 13
+    },
+    {
+      "TeamA": "Chennai Super Kings",
+      "TeamB": "Gujarat Lions",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Chennai Super Kings",
+      "TeamB": "Gujarat Titans",
+      "Played": 9,
+      "WinsA": 4,
+      "WinsB": 5
+    },
+    {
+      "TeamA": "Chennai Super Kings",
+      "TeamB": "Kochi Tuskers Kerala",
+      "Played": 2,
+      "WinsA": 1,
+      "WinsB": 1
+    },
+    {
+      "TeamA": "Chennai Super Kings",
+      "TeamB": "Kolkata Knight Riders",
+      "Played": 32,
+      "WinsA": 20,
+      "WinsB": 12
+    },
+    {
+      "TeamA": "Chennai Super Kings",
+      "TeamB": "Lucknow Super Giants",
+      "Played": 7,
+      "WinsA": 2,
+      "WinsB": 4
+    },
+    {
+      "TeamA": "Chennai Super Kings",
+      "TeamB": "Mumbai Indians",
+      "Played": 41,
+      "WinsA": 18,
+      "WinsB": 23
+    },
+    {
+      "TeamA": "Chennai Super Kings",
+      "TeamB": "Pune Warriors",
+      "Played": 6,
+      "WinsA": 4,
+      "WinsB": 2
+    },
+    {
+      "TeamA": "Chennai Super Kings",
+      "TeamB": "Punjab Kings",
+      "Played": 33,
+      "WinsA": 16,
+      "WinsB": 17
+    },
+    {
+      "TeamA": "Chennai Super Kings",
+      "TeamB": "Rajasthan Royals",
+      "Played": 33,
+      "WinsA": 16,
+      "WinsB": 17
+    },
+    {
+      "TeamA": "Chennai Super Kings",
+      "TeamB": "Rising Pune Supergiant",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Chennai Super Kings",
+      "TeamB": "Royal Challengers Bangalore",
+      "Played": 35,
+      "WinsA": 21,
+      "WinsB": 14
+    },
+    {
+      "TeamA": "Chennai Super Kings",
+      "TeamB": "Sunrisers Hyderabad",
+      "Played": 34,
+      "WinsA": 22,
+      "WinsB": 12
+    },
+    {
+      "TeamA": "Delhi Capitals",
+      "TeamB": "Chennai Super Kings",
+      "Played": 32,
+      "WinsA": 13,
+      "WinsB": 19
+    },
+    {
+      "TeamA": "Delhi Capitals",
+      "TeamB": "Gujarat Lions",
+      "Played": 4,
+      "WinsA": 3,
+      "WinsB": 1
+    },
+    {
+      "TeamA": "Delhi Capitals",
+      "TeamB": "Gujarat Titans",
+      "Played": 7,
+      "WinsA": 3,
+      "WinsB": 4
+    },
+    {
+      "TeamA": "Delhi Capitals",
+      "TeamB": "Kochi Tuskers Kerala",
+      "Played": 2,
+      "WinsA": 1,
+      "WinsB": 1
+    },
+    {
+      "TeamA": "Delhi Capitals",
+      "TeamB": "Kolkata Knight Riders",
+      "Played": 36,
+      "WinsA": 15,
+      "WinsB": 21
+    },
+    {
+      "TeamA": "Delhi Capitals",
+      "TeamB": "Lucknow Super Giants",
+      "Played": 9,
+      "WinsA": 5,
+      "WinsB": 4
+    },
+    {
+      "TeamA": "Delhi Capitals",
+      "TeamB": "Mumbai Indians",
+      "Played": 38,
+      "WinsA": 17,
+      "WinsB": 21
+    },
+    {
+      "TeamA": "Delhi Capitals",
+      "TeamB": "Pune Warriors",
+      "Played": 6,
+      "WinsA": 3,
+      "WinsB": 2
+    },
+    {
+      "TeamA": "Delhi Capitals",
+      "TeamB": "Punjab Kings",
+      "Played": 36,
+      "WinsA": 17,
+      "WinsB": 19
+    },
+    {
+      "TeamA": "Delhi Capitals",
+      "TeamB": "Rajasthan Royals",
+      "Played": 32,
+      "WinsA": 16,
+      "WinsB": 16
+    },
+    {
+      "TeamA": "Delhi Capitals",
+      "TeamB": "Rising Pune Supergiant",
+      "Played": 4,
+      "WinsA": 2,
+      "WinsB": 2
+    },
+    {
+      "TeamA": "Delhi Capitals",
+      "TeamB": "Royal Challengers Bangalore",
+      "Played": 35,
+      "WinsA": 14,
+      "WinsB": 20
+    },
+    {
+      "TeamA": "Delhi Capitals",
+      "TeamB": "Sunrisers Hyderabad",
+      "Played": 39,
+      "WinsA": 19,
+      "WinsB": 19
+    },
+    {
+      "TeamA": "Gujarat Lions",
+      "TeamB": "Chennai Super Kings",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Gujarat Lions",
+      "TeamB": "Delhi Capitals",
+      "Played": 4,
+      "WinsA": 1,
+      "WinsB": 3
+    },
+    {
+      "TeamA": "Gujarat Lions",
+      "TeamB": "Gujarat Titans",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Gujarat Lions",
+      "TeamB": "Kochi Tuskers Kerala",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Gujarat Lions",
+      "TeamB": "Kolkata Knight Riders",
+      "Played": 4,
+      "WinsA": 3,
+      "WinsB": 1
+    },
+    {
+      "TeamA": "Gujarat Lions",
+      "TeamB": "Lucknow Super Giants",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Gujarat Lions",
+      "TeamB": "Mumbai Indians",
+      "Played": 4,
+      "WinsA": 2,
+      "WinsB": 2
+    },
+    {
+      "TeamA": "Gujarat Lions",
+      "TeamB": "Pune Warriors",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Gujarat Lions",
+      "TeamB": "Punjab Kings",
+      "Played": 4,
+      "WinsA": 2,
+      "WinsB": 2
+    },
+    {
+      "TeamA": "Gujarat Lions",
+      "TeamB": "Rajasthan Royals",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Gujarat Lions",
+      "TeamB": "Rising Pune Supergiant",
+      "Played": 4,
+      "WinsA": 3,
+      "WinsB": 1
+    },
+    {
+      "TeamA": "Gujarat Lions",
+      "TeamB": "Royal Challengers Bangalore",
+      "Played": 5,
+      "WinsA": 2,
+      "WinsB": 3
+    },
+    {
+      "TeamA": "Gujarat Lions",
+      "TeamB": "Sunrisers Hyderabad",
+      "Played": 5,
+      "WinsA": 0,
+      "WinsB": 5
+    },
+    {
+      "TeamA": "Gujarat Titans",
+      "TeamB": "Chennai Super Kings",
+      "Played": 9,
+      "WinsA": 5,
+      "WinsB": 4
+    },
+    {
+      "TeamA": "Gujarat Titans",
+      "TeamB": "Delhi Capitals",
+      "Played": 7,
+      "WinsA": 4,
+      "WinsB": 3
+    },
+    {
+      "TeamA": "Gujarat Titans",
+      "TeamB": "Gujarat Lions",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Gujarat Titans",
+      "TeamB": "Kochi Tuskers Kerala",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Gujarat Titans",
+      "TeamB": "Kolkata Knight Riders",
+      "Played": 6,
+      "WinsA": 5,
+      "WinsB": 1
+    },
+    {
+      "TeamA": "Gujarat Titans",
+      "TeamB": "Lucknow Super Giants",
+      "Played": 9,
+      "WinsA": 6,
+      "WinsB": 3
+    },
+    {
+      "TeamA": "Gujarat Titans",
+      "TeamB": "Mumbai Indians",
+      "Played": 9,
+      "WinsA": 6,
+      "WinsB": 3
+    },
+    {
+      "TeamA": "Gujarat Titans",
+      "TeamB": "Pune Warriors",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Gujarat Titans",
+      "TeamB": "Punjab Kings",
+      "Played": 8,
+      "WinsA": 5,
+      "WinsB": 3
+    },
+    {
+      "TeamA": "Gujarat Titans",
+      "TeamB": "Rajasthan Royals",
+      "Played": 10,
+      "WinsA": 7,
+      "WinsB": 3
+    },
+    {
+      "TeamA": "Gujarat Titans",
+      "TeamB": "Rising Pune Supergiant",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Gujarat Titans",
+      "TeamB": "Royal Challengers Bangalore",
+      "Played": 10,
+      "WinsA": 6,
+      "WinsB": 4
+    },
+    {
+      "TeamA": "Gujarat Titans",
+      "TeamB": "Sunrisers Hyderabad",
+      "Played": 7,
+      "WinsA": 5,
+      "WinsB": 2
+    },
+    {
+      "TeamA": "Kochi Tuskers Kerala",
+      "TeamB": "Chennai Super Kings",
+      "Played": 2,
+      "WinsA": 1,
+      "WinsB": 1
+    },
+    {
+      "TeamA": "Kochi Tuskers Kerala",
+      "TeamB": "Delhi Capitals",
+      "Played": 2,
+      "WinsA": 1,
+      "WinsB": 1
+    },
+    {
+      "TeamA": "Kochi Tuskers Kerala",
+      "TeamB": "Gujarat Lions",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Kochi Tuskers Kerala",
+      "TeamB": "Gujarat Titans",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Kochi Tuskers Kerala",
+      "TeamB": "Kolkata Knight Riders",
+      "Played": 2,
+      "WinsA": 2,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Kochi Tuskers Kerala",
+      "TeamB": "Lucknow Super Giants",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Kochi Tuskers Kerala",
+      "TeamB": "Mumbai Indians",
+      "Played": 1,
+      "WinsA": 1,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Kochi Tuskers Kerala",
+      "TeamB": "Pune Warriors",
+      "Played": 1,
+      "WinsA": 0,
+      "WinsB": 1
+    },
+    {
+      "TeamA": "Kochi Tuskers Kerala",
+      "TeamB": "Punjab Kings",
+      "Played": 1,
+      "WinsA": 0,
+      "WinsB": 1
+    },
+    {
+      "TeamA": "Kochi Tuskers Kerala",
+      "TeamB": "Rajasthan Royals",
+      "Played": 2,
+      "WinsA": 1,
+      "WinsB": 1
+    },
+    {
+      "TeamA": "Kochi Tuskers Kerala",
+      "TeamB": "Rising Pune Supergiant",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Kochi Tuskers Kerala",
+      "TeamB": "Royal Challengers Bangalore",
+      "Played": 2,
+      "WinsA": 0,
+      "WinsB": 2
+    },
+    {
+      "TeamA": "Kochi Tuskers Kerala",
+      "TeamB": "Sunrisers Hyderabad",
+      "Played": 1,
+      "WinsA": 0,
+      "WinsB": 1
+    },
+    {
+      "TeamA": "Kolkata Knight Riders",
+      "TeamB": "Chennai Super Kings",
+      "Played": 32,
+      "WinsA": 12,
+      "WinsB": 20
+    },
+    {
+      "TeamA": "Kolkata Knight Riders",
+      "TeamB": "Delhi Capitals",
+      "Played": 36,
+      "WinsA": 21,
+      "WinsB": 15
+    },
+    {
+      "TeamA": "Kolkata Knight Riders",
+      "TeamB": "Gujarat Lions",
+      "Played": 4,
+      "WinsA": 1,
+      "WinsB": 3
+    },
+    {
+      "TeamA": "Kolkata Knight Riders",
+      "TeamB": "Gujarat Titans",
+      "Played": 6,
+      "WinsA": 1,
+      "WinsB": 5
+    },
+    {
+      "TeamA": "Kolkata Knight Riders",
+      "TeamB": "Kochi Tuskers Kerala",
+      "Played": 2,
+      "WinsA": 0,
+      "WinsB": 2
+    },
+    {
+      "TeamA": "Kolkata Knight Riders",
+      "TeamB": "Lucknow Super Giants",
+      "Played": 8,
+      "WinsA": 3,
+      "WinsB": 5
+    },
+    {
+      "TeamA": "Kolkata Knight Riders",
+      "TeamB": "Mumbai Indians",
+      "Played": 38,
+      "WinsA": 13,
+      "WinsB": 25
+    },
+    {
+      "TeamA": "Kolkata Knight Riders",
+      "TeamB": "Pune Warriors",
+      "Played": 5,
+      "WinsA": 4,
+      "WinsB": 1
+    },
+    {
+      "TeamA": "Kolkata Knight Riders",
+      "TeamB": "Punjab Kings",
+      "Played": 36,
+      "WinsA": 21,
+      "WinsB": 14
+    },
+    {
+      "TeamA": "Kolkata Knight Riders",
+      "TeamB": "Rajasthan Royals",
+      "Played": 32,
+      "WinsA": 16,
+      "WinsB": 16
+    },
+    {
+      "TeamA": "Kolkata Knight Riders",
+      "TeamB": "Rising Pune Supergiant",
+      "Played": 4,
+      "WinsA": 3,
+      "WinsB": 1
+    },
+    {
+      "TeamA": "Kolkata Knight Riders",
+      "TeamB": "Royal Challengers Bangalore",
+      "Played": 37,
+      "WinsA": 21,
+      "WinsB": 15
+    },
+    {
+      "TeamA": "Kolkata Knight Riders",
+      "TeamB": "Sunrisers Hyderabad",
+      "Played": 41,
+      "WinsA": 27,
+      "WinsB": 14
+    },
+    {
+      "TeamA": "Lucknow Super Giants",
+      "TeamB": "Chennai Super Kings",
+      "Played": 7,
+      "WinsA": 4,
+      "WinsB": 2
+    },
+    {
+      "TeamA": "Lucknow Super Giants",
+      "TeamB": "Delhi Capitals",
+      "Played": 9,
+      "WinsA": 4,
+      "WinsB": 5
+    },
+    {
+      "TeamA": "Lucknow Super Giants",
+      "TeamB": "Gujarat Lions",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Lucknow Super Giants",
+      "TeamB": "Gujarat Titans",
+      "Played": 9,
+      "WinsA": 3,
+      "WinsB": 6
+    },
+    {
+      "TeamA": "Lucknow Super Giants",
+      "TeamB": "Kochi Tuskers Kerala",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Lucknow Super Giants",
+      "TeamB": "Kolkata Knight Riders",
+      "Played": 8,
+      "WinsA": 5,
+      "WinsB": 3
+    },
+    {
+      "TeamA": "Lucknow Super Giants",
+      "TeamB": "Mumbai Indians",
+      "Played": 10,
+      "WinsA": 7,
+      "WinsB": 3
+    },
+    {
+      "TeamA": "Lucknow Super Giants",
+      "TeamB": "Pune Warriors",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Lucknow Super Giants",
+      "TeamB": "Punjab Kings",
+      "Played": 7,
+      "WinsA": 4,
+      "WinsB": 3
+    },
+    {
+      "TeamA": "Lucknow Super Giants",
+      "TeamB": "Rajasthan Royals",
+      "Played": 7,
+      "WinsA": 2,
+      "WinsB": 5
+    },
+    {
+      "TeamA": "Lucknow Super Giants",
+      "TeamB": "Rising Pune Supergiant",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Lucknow Super Giants",
+      "TeamB": "Royal Challengers Bangalore",
+      "Played": 8,
+      "WinsA": 4,
+      "WinsB": 4
+    },
+    {
+      "TeamA": "Lucknow Super Giants",
+      "TeamB": "Sunrisers Hyderabad",
+      "Played": 7,
+      "WinsA": 4,
+      "WinsB": 3
+    },
+    {
+      "TeamA": "Mumbai Indians",
+      "TeamB": "Chennai Super Kings",
+      "Played": 41,
+      "WinsA": 23,
+      "WinsB": 18
+    },
+    {
+      "TeamA": "Mumbai Indians",
+      "TeamB": "Delhi Capitals",
+      "Played": 38,
+      "WinsA": 21,
+      "WinsB": 17
+    },
+    {
+      "TeamA": "Mumbai Indians",
+      "TeamB": "Gujarat Lions",
+      "Played": 4,
+      "WinsA": 2,
+      "WinsB": 2
+    },
+    {
+      "TeamA": "Mumbai Indians",
+      "TeamB": "Gujarat Titans",
+      "Played": 9,
+      "WinsA": 3,
+      "WinsB": 6
+    },
+    {
+      "TeamA": "Mumbai Indians",
+      "TeamB": "Kochi Tuskers Kerala",
+      "Played": 1,
+      "WinsA": 0,
+      "WinsB": 1
+    },
+    {
+      "TeamA": "Mumbai Indians",
+      "TeamB": "Kolkata Knight Riders",
+      "Played": 38,
+      "WinsA": 25,
+      "WinsB": 13
+    },
+    {
+      "TeamA": "Mumbai Indians",
+      "TeamB": "Lucknow Super Giants",
+      "Played": 10,
+      "WinsA": 3,
+      "WinsB": 7
+    },
+    {
+      "TeamA": "Mumbai Indians",
+      "TeamB": "Pune Warriors",
+      "Played": 6,
+      "WinsA": 5,
+      "WinsB": 1
+    },
+    {
+      "TeamA": "Mumbai Indians",
+      "TeamB": "Punjab Kings",
+      "Played": 34,
+      "WinsA": 17,
+      "WinsB": 17
+    },
+    {
+      "TeamA": "Mumbai Indians",
+      "TeamB": "Rajasthan Royals",
+      "Played": 32,
+      "WinsA": 16,
+      "WinsB": 16
+    },
+    {
+      "TeamA": "Mumbai Indians",
+      "TeamB": "Rising Pune Supergiant",
+      "Played": 6,
+      "WinsA": 2,
+      "WinsB": 4
+    },
+    {
+      "TeamA": "Mumbai Indians",
+      "TeamB": "Royal Challengers Bangalore",
+      "Played": 37,
+      "WinsA": 21,
+      "WinsB": 16
+    },
+    {
+      "TeamA": "Mumbai Indians",
+      "TeamB": "Sunrisers Hyderabad",
+      "Played": 36,
+      "WinsA": 21,
+      "WinsB": 15
+    },
+    {
+      "TeamA": "Pune Warriors",
+      "TeamB": "Chennai Super Kings",
+      "Played": 6,
+      "WinsA": 2,
+      "WinsB": 4
+    },
+    {
+      "TeamA": "Pune Warriors",
+      "TeamB": "Delhi Capitals",
+      "Played": 6,
+      "WinsA": 2,
+      "WinsB": 3
+    },
+    {
+      "TeamA": "Pune Warriors",
+      "TeamB": "Gujarat Lions",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Pune Warriors",
+      "TeamB": "Gujarat Titans",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Pune Warriors",
+      "TeamB": "Kochi Tuskers Kerala",
+      "Played": 1,
+      "WinsA": 1,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Pune Warriors",
+      "TeamB": "Kolkata Knight Riders",
+      "Played": 5,
+      "WinsA": 1,
+      "WinsB": 4
+    },
+    {
+      "TeamA": "Pune Warriors",
+      "TeamB": "Lucknow Super Giants",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Pune Warriors",
+      "TeamB": "Mumbai Indians",
+      "Played": 6,
+      "WinsA": 1,
+      "WinsB": 5
+    },
+    {
+      "TeamA": "Pune Warriors",
+      "TeamB": "Punjab Kings",
+      "Played": 6,
+      "WinsA": 3,
+      "WinsB": 3
+    },
+    {
+      "TeamA": "Pune Warriors",
+      "TeamB": "Rajasthan Royals",
+      "Played": 5,
+      "WinsA": 1,
+      "WinsB": 4
+    },
+    {
+      "TeamA": "Pune Warriors",
+      "TeamB": "Rising Pune Supergiant",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Pune Warriors",
+      "TeamB": "Royal Challengers Bangalore",
+      "Played": 5,
+      "WinsA": 0,
+      "WinsB": 5
+    },
+    {
+      "TeamA": "Pune Warriors",
+      "TeamB": "Sunrisers Hyderabad",
+      "Played": 6,
+      "WinsA": 1,
+      "WinsB": 5
+    },
+    {
+      "TeamA": "Punjab Kings",
+      "TeamB": "Chennai Super Kings",
+      "Played": 33,
+      "WinsA": 17,
+      "WinsB": 16
+    },
+    {
+      "TeamA": "Punjab Kings",
+      "TeamB": "Delhi Capitals",
+      "Played": 36,
+      "WinsA": 19,
+      "WinsB": 17
+    },
+    {
+      "TeamA": "Punjab Kings",
+      "TeamB": "Gujarat Lions",
+      "Played": 4,
+      "WinsA": 2,
+      "WinsB": 2
+    },
+    {
+      "TeamA": "Punjab Kings",
+      "TeamB": "Gujarat Titans",
+      "Played": 8,
+      "WinsA": 3,
+      "WinsB": 5
+    },
+    {
+      "TeamA": "Punjab Kings",
+      "TeamB": "Kochi Tuskers Kerala",
+      "Played": 1,
+      "WinsA": 1,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Punjab Kings",
+      "TeamB": "Kolkata Knight Riders",
+      "Played": 36,
+      "WinsA": 14,
+      "WinsB": 21
+    },
+    {
+      "TeamA": "Punjab Kings",
+      "TeamB": "Lucknow Super Giants",
+      "Played": 7,
+      "WinsA": 3,
+      "WinsB": 4
+    },
+    {
+      "TeamA": "Punjab Kings",
+      "TeamB": "Mumbai Indians",
+      "Played": 34,
+      "WinsA": 17,
+      "WinsB": 17
+    },
+    {
+      "TeamA": "Punjab Kings",
+      "TeamB": "Pune Warriors",
+      "Played": 6,
+      "WinsA": 3,
+      "WinsB": 3
+    },
+    {
+      "TeamA": "Punjab Kings",
+      "TeamB": "Rajasthan Royals",
+      "Played": 31,
+      "WinsA": 13,
+      "WinsB": 18
+    },
+    {
+      "TeamA": "Punjab Kings",
+      "TeamB": "Rising Pune Supergiant",
+      "Played": 4,
+      "WinsA": 2,
+      "WinsB": 2
+    },
+    {
+      "TeamA": "Punjab Kings",
+      "TeamB": "Royal Challengers Bangalore",
+      "Played": 39,
+      "WinsA": 19,
+      "WinsB": 20
+    },
+    {
+      "TeamA": "Punjab Kings",
+      "TeamB": "Sunrisers Hyderabad",
+      "Played": 36,
+      "WinsA": 16,
+      "WinsB": 20
+    },
+    {
+      "TeamA": "Rajasthan Royals",
+      "TeamB": "Chennai Super Kings",
+      "Played": 33,
+      "WinsA": 17,
+      "WinsB": 16
+    },
+    {
+      "TeamA": "Rajasthan Royals",
+      "TeamB": "Delhi Capitals",
+      "Played": 32,
+      "WinsA": 16,
+      "WinsB": 16
+    },
+    {
+      "TeamA": "Rajasthan Royals",
+      "TeamB": "Gujarat Lions",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Rajasthan Royals",
+      "TeamB": "Gujarat Titans",
+      "Played": 10,
+      "WinsA": 3,
+      "WinsB": 7
+    },
+    {
+      "TeamA": "Rajasthan Royals",
+      "TeamB": "Kochi Tuskers Kerala",
+      "Played": 2,
+      "WinsA": 1,
+      "WinsB": 1
+    },
+    {
+      "TeamA": "Rajasthan Royals",
+      "TeamB": "Kolkata Knight Riders",
+      "Played": 32,
+      "WinsA": 16,
+      "WinsB": 16
+    },
+    {
+      "TeamA": "Rajasthan Royals",
+      "TeamB": "Lucknow Super Giants",
+      "Played": 7,
+      "WinsA": 5,
+      "WinsB": 2
+    },
+    {
+      "TeamA": "Rajasthan Royals",
+      "TeamB": "Mumbai Indians",
+      "Played": 32,
+      "WinsA": 16,
+      "WinsB": 16
+    },
+    {
+      "TeamA": "Rajasthan Royals",
+      "TeamB": "Pune Warriors",
+      "Played": 5,
+      "WinsA": 4,
+      "WinsB": 1
+    },
+    {
+      "TeamA": "Rajasthan Royals",
+      "TeamB": "Punjab Kings",
+      "Played": 31,
+      "WinsA": 18,
+      "WinsB": 13
+    },
+    {
+      "TeamA": "Rajasthan Royals",
+      "TeamB": "Rising Pune Supergiant",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Rajasthan Royals",
+      "TeamB": "Royal Challengers Bangalore",
+      "Played": 35,
+      "WinsA": 14,
+      "WinsB": 19
+    },
+    {
+      "TeamA": "Rajasthan Royals",
+      "TeamB": "Sunrisers Hyderabad",
+      "Played": 32,
+      "WinsA": 17,
+      "WinsB": 15
+    },
+    {
+      "TeamA": "Rising Pune Supergiant",
+      "TeamB": "Chennai Super Kings",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Rising Pune Supergiant",
+      "TeamB": "Delhi Capitals",
+      "Played": 4,
+      "WinsA": 2,
+      "WinsB": 2
+    },
+    {
+      "TeamA": "Rising Pune Supergiant",
+      "TeamB": "Gujarat Lions",
+      "Played": 4,
+      "WinsA": 1,
+      "WinsB": 3
+    },
+    {
+      "TeamA": "Rising Pune Supergiant",
+      "TeamB": "Gujarat Titans",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Rising Pune Supergiant",
+      "TeamB": "Kochi Tuskers Kerala",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Rising Pune Supergiant",
+      "TeamB": "Kolkata Knight Riders",
+      "Played": 4,
+      "WinsA": 1,
+      "WinsB": 3
+    },
+    {
+      "TeamA": "Rising Pune Supergiant",
+      "TeamB": "Lucknow Super Giants",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Rising Pune Supergiant",
+      "TeamB": "Mumbai Indians",
+      "Played": 6,
+      "WinsA": 4,
+      "WinsB": 2
+    },
+    {
+      "TeamA": "Rising Pune Supergiant",
+      "TeamB": "Pune Warriors",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Rising Pune Supergiant",
+      "TeamB": "Punjab Kings",
+      "Played": 4,
+      "WinsA": 2,
+      "WinsB": 2
+    },
+    {
+      "TeamA": "Rising Pune Supergiant",
+      "TeamB": "Rajasthan Royals",
+      "Played": 0,
+      "WinsA": 0,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Rising Pune Supergiant",
+      "TeamB": "Royal Challengers Bangalore",
+      "Played": 4,
+      "WinsA": 2,
+      "WinsB": 2
+    },
+    {
+      "TeamA": "Rising Pune Supergiant",
+      "TeamB": "Sunrisers Hyderabad",
+      "Played": 4,
+      "WinsA": 3,
+      "WinsB": 1
+    },
+    {
+      "TeamA": "Royal Challengers Bangalore",
+      "TeamB": "Chennai Super Kings",
+      "Played": 35,
+      "WinsA": 14,
+      "WinsB": 21
+    },
+    {
+      "TeamA": "Royal Challengers Bangalore",
+      "TeamB": "Delhi Capitals",
+      "Played": 35,
+      "WinsA": 20,
+      "WinsB": 14
+    },
+    {
+      "TeamA": "Royal Challengers Bangalore",
+      "TeamB": "Gujarat Lions",
+      "Played": 5,
+      "WinsA": 3,
+      "WinsB": 2
+    },
+    {
+      "TeamA": "Royal Challengers Bangalore",
+      "TeamB": "Gujarat Titans",
+      "Played": 10,
+      "WinsA": 4,
+      "WinsB": 6
+    },
+    {
+      "TeamA": "Royal Challengers Bangalore",
+      "TeamB": "Kochi Tuskers Kerala",
+      "Played": 2,
+      "WinsA": 2,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Royal Challengers Bangalore",
+      "TeamB": "Kolkata Knight Riders",
+      "Played": 37,
+      "WinsA": 15,
+      "WinsB": 21
+    },
+    {
+      "TeamA": "Royal Challengers Bangalore",
+      "TeamB": "Lucknow Super Giants",
+      "Played": 8,
+      "WinsA": 4,
+      "WinsB": 4
+    },
+    {
+      "TeamA": "Royal Challengers Bangalore",
+      "TeamB": "Mumbai Indians",
+      "Played": 37,
+      "WinsA": 16,
+      "WinsB": 21
+    },
+    {
+      "TeamA": "Royal Challengers Bangalore",
+      "TeamB": "Pune Warriors",
+      "Played": 5,
+      "WinsA": 5,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Royal Challengers Bangalore",
+      "TeamB": "Punjab Kings",
+      "Played": 39,
+      "WinsA": 20,
+      "WinsB": 19
+    },
+    {
+      "TeamA": "Royal Challengers Bangalore",
+      "TeamB": "Rajasthan Royals",
+      "Played": 35,
+      "WinsA": 19,
+      "WinsB": 14
+    },
+    {
+      "TeamA": "Royal Challengers Bangalore",
+      "TeamB": "Rising Pune Supergiant",
+      "Played": 4,
+      "WinsA": 2,
+      "WinsB": 2
+    },
+    {
+      "TeamA": "Royal Challengers Bangalore",
+      "TeamB": "Sunrisers Hyderabad",
+      "Played": 38,
+      "WinsA": 18,
+      "WinsB": 20
+    },
+    {
+      "TeamA": "Sunrisers Hyderabad",
+      "TeamB": "Chennai Super Kings",
+      "Played": 34,
+      "WinsA": 12,
+      "WinsB": 22
+    },
+    {
+      "TeamA": "Sunrisers Hyderabad",
+      "TeamB": "Delhi Capitals",
+      "Played": 39,
+      "WinsA": 19,
+      "WinsB": 19
+    },
+    {
+      "TeamA": "Sunrisers Hyderabad",
+      "TeamB": "Gujarat Lions",
+      "Played": 5,
+      "WinsA": 5,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Sunrisers Hyderabad",
+      "TeamB": "Gujarat Titans",
+      "Played": 7,
+      "WinsA": 2,
+      "WinsB": 5
+    },
+    {
+      "TeamA": "Sunrisers Hyderabad",
+      "TeamB": "Kochi Tuskers Kerala",
+      "Played": 1,
+      "WinsA": 1,
+      "WinsB": 0
+    },
+    {
+      "TeamA": "Sunrisers Hyderabad",
+      "TeamB": "Kolkata Knight Riders",
+      "Played": 41,
+      "WinsA": 14,
+      "WinsB": 27
+    },
+    {
+      "TeamA": "Sunrisers Hyderabad",
+      "TeamB": "Lucknow Super Giants",
+      "Played": 7,
+      "WinsA": 3,
+      "WinsB": 4
+    },
+    {
+      "TeamA": "Sunrisers Hyderabad",
+      "TeamB": "Mumbai Indians",
+      "Played": 36,
+      "WinsA": 15,
+      "WinsB": 21
+    },
+    {
+      "TeamA": "Sunrisers Hyderabad",
+      "TeamB": "Pune Warriors",
+      "Played": 6,
+      "WinsA": 5,
+      "WinsB": 1
+    },
+    {
+      "TeamA": "Sunrisers Hyderabad",
+      "TeamB": "Punjab Kings",
+      "Played": 36,
+      "WinsA": 20,
+      "WinsB": 16
+    },
+    {
+      "TeamA": "Sunrisers Hyderabad",
+      "TeamB": "Rajasthan Royals",
+      "Played": 32,
+      "WinsA": 15,
+      "WinsB": 17
+    },
+    {
+      "TeamA": "Sunrisers Hyderabad",
+      "TeamB": "Rising Pune Supergiant",
+      "Played": 4,
+      "WinsA": 1,
+      "WinsB": 3
+    },
+    {
+      "TeamA": "Sunrisers Hyderabad",
+      "TeamB": "Royal Challengers Bangalore",
+      "Played": 38,
+      "WinsA": 20,
+      "WinsB": 18
+    }
+  ],
+  "batting_leaderboard": [
+    {
+      "batter": "V Kohli",
+      "Runs": 12246,
+      "Balls": 8144,
+      "SR": 150.36836935166994,
+      "player_out": "V Kohli",
+      "Outs": 308.0,
+      "Avg": 39.75974025974026,
+      "Batter": "V Kohli"
+    },
+    {
+      "batter": "RG Sharma",
+      "Runs": 8730,
+      "Balls": 6899,
+      "SR": 126.54007827221336,
+      "player_out": "RG Sharma",
+      "Outs": 315.0,
+      "Avg": 27.714285714285715,
+      "Batter": "RG Sharma"
+    },
+    {
+      "batter": "DA Warner",
+      "Runs": 8259,
+      "Balls": 6185,
+      "SR": 133.53274050121263,
+      "player_out": "DA Warner",
+      "Outs": 237.0,
+      "Avg": 34.848101265822784,
+      "Batter": "DA Warner"
+    },
+    {
+      "batter": "MS Dhoni",
+      "Runs": 7089,
+      "Balls": 5404,
+      "SR": 131.18060695780903,
+      "player_out": "MS Dhoni",
+      "Outs": 224.0,
+      "Avg": 31.647321428571427,
+      "Batter": "MS Dhoni"
+    },
+    {
+      "batter": "KL Rahul",
+      "Runs": 7035,
+      "Balls": 5394,
+      "SR": 130.42269187986653,
+      "player_out": "KL Rahul",
+      "Outs": 201.0,
+      "Avg": 35.0,
+      "Batter": "KL Rahul"
+    },
+    {
+      "batter": "S Dhawan",
+      "Runs": 6769,
+      "Balls": 5483,
+      "SR": 123.45431333211745,
+      "player_out": "S Dhawan",
+      "Outs": 193.0,
+      "Avg": 35.07253886010363,
+      "Batter": "S Dhawan"
+    },
+    {
+      "batter": "V Sooryavanshi",
+      "Runs": 5754,
+      "Balls": 1955,
+      "SR": 294.3222506393862,
+      "player_out": "V Sooryavanshi",
+      "Outs": 100.0,
+      "Avg": 57.54,
+      "Batter": "V Sooryavanshi"
+    },
+    {
+      "batter": "SK Raina",
+      "Runs": 5600,
+      "Balls": 4215,
+      "SR": 132.858837485172,
+      "player_out": "SK Raina",
+      "Outs": 174.0,
+      "Avg": 32.18390804597701,
+      "Batter": "SK Raina"
+    },
+    {
+      "batter": "AB de Villiers",
+      "Runs": 5239,
+      "Balls": 3526,
+      "SR": 148.5819625638117,
+      "player_out": "AB de Villiers",
+      "Outs": 132.0,
+      "Avg": 39.68939393939394,
+      "Batter": "AB de Villiers"
+    },
+    {
+      "batter": "AM Rahane",
+      "Runs": 5078,
+      "Balls": 4174,
+      "SR": 121.65788212745568,
+      "player_out": "AM Rahane",
+      "Outs": 167.0,
+      "Avg": 30.407185628742514,
+      "Batter": "AM Rahane"
+    },
+    {
+      "batter": "CH Gayle",
+      "Runs": 5031,
+      "Balls": 3541,
+      "SR": 142.07850889579214,
+      "player_out": "CH Gayle",
+      "Outs": 128.0,
+      "Avg": 39.3046875,
+      "Batter": "CH Gayle"
+    },
+    {
+      "batter": "RV Uthappa",
+      "Runs": 5019,
+      "Balls": 3978,
+      "SR": 126.16892911010558,
+      "player_out": "RV Uthappa",
+      "Outs": 180.0,
+      "Avg": 27.883333333333333,
+      "Batter": "RV Uthappa"
+    },
+    {
+      "batter": "KD Karthik",
+      "Runs": 4883,
+      "Balls": 3720,
+      "SR": 131.26344086021507,
+      "player_out": "KD Karthik",
+      "Outs": 185.0,
+      "Avg": 26.394594594594594,
+      "Batter": "KD Karthik"
+    },
+    {
+      "batter": "F du Plessis",
+      "Runs": 4782,
+      "Balls": 3610,
+      "SR": 132.46537396121886,
+      "player_out": "F du Plessis",
+      "Outs": 137.0,
+      "Avg": 34.90510948905109,
+      "Batter": "F du Plessis"
+    },
+    {
+      "batter": "SV Samson",
+      "Runs": 4704,
+      "Balls": 3475,
+      "SR": 135.36690647482015,
+      "player_out": "SV Samson",
+      "Outs": 153.0,
+      "Avg": 30.745098039215687,
+      "Batter": "SV Samson"
+    },
+    {
+      "batter": "AT Rayudu",
+      "Runs": 4414,
+      "Balls": 3548,
+      "SR": 124.40811724915446,
+      "player_out": "AT Rayudu",
+      "Outs": 155.0,
+      "Avg": 28.47741935483871,
+      "Batter": "AT Rayudu"
+    },
+    {
+      "batter": "SA Yadav",
+      "Runs": 4311,
+      "Balls": 2961,
+      "SR": 145.59270516717325,
+      "player_out": "SA Yadav",
+      "Outs": 124.0,
+      "Avg": 34.766129032258064,
+      "Batter": "SA Yadav"
+    },
+    {
+      "batter": "G Gambhir",
+      "Runs": 4234,
+      "Balls": 3539,
+      "SR": 119.63831590844872,
+      "player_out": "G Gambhir",
+      "Outs": 138.0,
+      "Avg": 30.681159420289855,
+      "Batter": "G Gambhir"
+    },
+    {
+      "batter": "JC Buttler",
+      "Runs": 4121,
+      "Balls": 2856,
+      "SR": 144.29271708683473,
+      "player_out": "JC Buttler",
+      "Outs": 104.0,
+      "Avg": 39.625,
+      "Batter": "JC Buttler"
+    },
+    {
+      "batter": "MK Pandey",
+      "Runs": 3951,
+      "Balls": 3355,
+      "SR": 117.7645305514158,
+      "player_out": "MK Pandey",
+      "Outs": 135.0,
+      "Avg": 29.266666666666666,
+      "Batter": "MK Pandey"
+    },
+    {
+      "batter": "SR Watson",
+      "Runs": 3932,
+      "Balls": 2941,
+      "SR": 133.69602176130567,
+      "player_out": "SR Watson",
+      "Outs": 128.0,
+      "Avg": 30.71875,
+      "Batter": "SR Watson"
+    },
+    {
+      "batter": "Shubman Gill",
+      "Runs": 3866,
+      "Balls": 2867,
+      "SR": 134.84478549005928,
+      "player_out": "Shubman Gill",
+      "Outs": 98.0,
+      "Avg": 39.44897959183673,
+      "Batter": "Shubman Gill"
+    },
+    {
+      "batter": "SS Iyer",
+      "Runs": 3735,
+      "Balls": 2905,
+      "SR": 128.57142857142858,
+      "player_out": "SS Iyer",
+      "Outs": 110.0,
+      "Avg": 33.95454545454545,
+      "Batter": "SS Iyer"
+    },
+    {
+      "batter": "RR Pant",
+      "Runs": 3566,
+      "Balls": 2504,
+      "SR": 142.41214057507986,
+      "player_out": "RR Pant",
+      "Outs": 104.0,
+      "Avg": 34.28846153846154,
+      "Batter": "RR Pant"
+    },
+    {
+      "batter": "KA Pollard",
+      "Runs": 3465,
+      "Balls": 2467,
+      "SR": 140.4539927036887,
+      "player_out": "KA Pollard",
+      "Outs": 122.0,
+      "Avg": 28.401639344262296,
+      "Batter": "KA Pollard"
+    },
+    {
+      "batter": "Q de Kock",
+      "Runs": 3341,
+      "Balls": 2553,
+      "SR": 130.86564825695262,
+      "player_out": "Q de Kock",
+      "Outs": 110.0,
+      "Avg": 30.37272727272727,
+      "Batter": "Q de Kock"
+    },
+    {
+      "batter": "RA Jadeja",
+      "Runs": 3264,
+      "Balls": 2612,
+      "SR": 124.96171516079633,
+      "player_out": "RA Jadeja",
+      "Outs": 118.0,
+      "Avg": 27.661016949152543,
+      "Batter": "RA Jadeja"
+    },
+    {
+      "batter": "YK Pathan",
+      "Runs": 3222,
+      "Balls": 2334,
+      "SR": 138.04627249357327,
+      "player_out": "YK Pathan",
+      "Outs": 110.0,
+      "Avg": 29.29090909090909,
+      "Batter": "YK Pathan"
+    },
+    {
+      "batter": "Ishan Kishan",
+      "Runs": 3130,
+      "Balls": 2336,
+      "SR": 133.98972602739727,
+      "player_out": "Ishan Kishan",
+      "Outs": 105.0,
+      "Avg": 29.80952380952381,
+      "Batter": "Ishan Kishan"
+    },
+    {
+      "batter": "DA Miller",
+      "Runs": 3077,
+      "Balls": 2295,
+      "SR": 134.07407407407408,
+      "player_out": "DA Miller",
+      "Outs": 87.0,
+      "Avg": 35.367816091954026,
+      "Batter": "DA Miller"
+    },
+    {
+      "batter": "WP Saha",
+      "Runs": 2974,
+      "Balls": 2403,
+      "SR": 123.76196421140241,
+      "player_out": "WP Saha",
+      "Outs": 122.0,
+      "Avg": 24.37704918032787,
+      "Batter": "WP Saha"
+    },
+    {
+      "batter": "BB McCullum",
+      "Runs": 2924,
+      "Balls": 2307,
+      "SR": 126.74469007368879,
+      "player_out": "BB McCullum",
+      "Outs": 105.0,
+      "Avg": 27.847619047619048,
+      "Batter": "BB McCullum"
+    },
+    {
+      "batter": "N Rana",
+      "Runs": 2853,
+      "Balls": 2156,
+      "SR": 132.32838589981446,
+      "player_out": "N Rana",
+      "Outs": 103.0,
+      "Avg": 27.699029126213592,
+      "Batter": "N Rana"
+    },
+    {
+      "batter": "PA Patel",
+      "Runs": 2848,
+      "Balls": 2442,
+      "SR": 116.62571662571663,
+      "player_out": "PA Patel",
+      "Outs": 126.0,
+      "Avg": 22.603174603174605,
+      "Batter": "PA Patel"
+    },
+    {
+      "batter": "GJ Maxwell",
+      "Runs": 2820,
+      "Balls": 1896,
+      "SR": 148.73417721518987,
+      "player_out": "GJ Maxwell",
+      "Outs": 118.0,
+      "Avg": 23.89830508474576,
+      "Batter": "GJ Maxwell"
+    },
+    {
+      "batter": "MA Agarwal",
+      "Runs": 2764,
+      "Balls": 2146,
+      "SR": 128.7977632805219,
+      "player_out": "MA Agarwal",
+      "Outs": 120.0,
+      "Avg": 23.033333333333335,
+      "Batter": "MA Agarwal"
+    },
+    {
+      "batter": "HH Pandya",
+      "Runs": 2760,
+      "Balls": 1968,
+      "SR": 140.2439024390244,
+      "player_out": "HH Pandya",
+      "Outs": 99.0,
+      "Avg": 27.87878787878788,
+      "Batter": "HH Pandya"
+    },
+    {
+      "batter": "Yuvraj Singh",
+      "Runs": 2754,
+      "Balls": 2207,
+      "SR": 124.78477571363842,
+      "player_out": "Yuvraj Singh",
+      "Outs": 111.0,
+      "Avg": 24.81081081081081,
+      "Batter": "Yuvraj Singh"
+    },
+    {
+      "batter": "V Sehwag",
+      "Runs": 2736,
+      "Balls": 1836,
+      "SR": 149.01960784313727,
+      "player_out": "V Sehwag",
+      "Outs": 100.0,
+      "Avg": 27.36,
+      "Batter": "V Sehwag"
+    },
+    {
+      "batter": "AD Russell",
+      "Runs": 2655,
+      "Balls": 1626,
+      "SR": 163.28413284132841,
+      "player_out": "AD Russell",
+      "Outs": 95.0,
+      "Avg": 27.94736842105263,
+      "Batter": "AD Russell"
+    },
+    {
+      "batter": "M Vijay",
+      "Runs": 2619,
+      "Balls": 2208,
+      "SR": 118.61413043478262,
+      "player_out": "M Vijay",
+      "Outs": 101.0,
+      "Avg": 25.93069306930693,
+      "Batter": "M Vijay"
+    },
+    {
+      "batter": "RD Gaikwad",
+      "Runs": 2555,
+      "Balls": 1916,
+      "SR": 133.35073068893527,
+      "player_out": "RD Gaikwad",
+      "Outs": 66.0,
+      "Avg": 38.71212121212121,
+      "Batter": "RD Gaikwad"
+    },
+    {
+      "batter": "SE Marsh",
+      "Runs": 2497,
+      "Balls": 1922,
+      "SR": 129.91675338189387,
+      "player_out": "SE Marsh",
+      "Outs": 64.0,
+      "Avg": 39.015625,
+      "Batter": "SE Marsh"
+    },
+    {
+      "batter": "SPD Smith",
+      "Runs": 2495,
+      "Balls": 2000,
+      "SR": 124.75,
+      "player_out": "SPD Smith",
+      "Outs": 73.0,
+      "Avg": 34.178082191780824,
+      "Batter": "SPD Smith"
+    },
+    {
+      "batter": "JH Kallis",
+      "Runs": 2441,
+      "Balls": 2301,
+      "SR": 106.08431116905692,
+      "player_out": "JH Kallis",
+      "Outs": 86.0,
+      "Avg": 28.38372093023256,
+      "Batter": "JH Kallis"
+    },
+    {
+      "batter": "SR Tendulkar",
+      "Runs": 2397,
+      "Balls": 2088,
+      "SR": 114.79885057471265,
+      "player_out": "SR Tendulkar",
+      "Outs": 70.0,
+      "Avg": 34.24285714285714,
+      "Batter": "SR Tendulkar"
+    },
+    {
+      "batter": "DR Smith",
+      "Runs": 2385,
+      "Balls": 1803,
+      "SR": 132.27953410981698,
+      "player_out": "DR Smith",
+      "Outs": 84.0,
+      "Avg": 28.392857142857142,
+      "Batter": "DR Smith"
+    },
+    {
+      "batter": "RA Tripathi",
+      "Runs": 2325,
+      "Balls": 1736,
+      "SR": 133.92857142857142,
+      "player_out": "RA Tripathi",
+      "Outs": 88.0,
+      "Avg": 26.420454545454547,
+      "Batter": "RA Tripathi"
+    },
+    {
+      "batter": "N Pooran",
+      "Runs": 2309,
+      "Balls": 1446,
+      "SR": 159.68188105117568,
+      "player_out": "N Pooran",
+      "Outs": 70.0,
+      "Avg": 32.98571428571429,
+      "Batter": "N Pooran"
+    },
+    {
+      "batter": "KS Williamson",
+      "Runs": 2185,
+      "Balls": 1779,
+      "SR": 122.82181000562113,
+      "player_out": "KS Williamson",
+      "Outs": 63.0,
+      "Avg": 34.682539682539684,
+      "Batter": "KS Williamson"
+    }
+  ],
+  "bowling_leaderboard": [
+    {
+      "bowler": "K Rabada",
+      "RunsConceded": 6248,
+      "Balls": 4465,
+      "Wickets": 502.0,
+      "Econ": 8.395968645016797,
+      "Bowler": "K Rabada"
+    },
+    {
+      "bowler": "YS Chahal",
+      "RunsConceded": 8559,
+      "Balls": 6089,
+      "Wickets": 303.0,
+      "Econ": 8.433897191657087,
+      "Bowler": "YS Chahal"
+    },
+    {
+      "bowler": "B Kumar",
+      "RunsConceded": 8964,
+      "Balls": 6454,
+      "Wickets": 274.0,
+      "Econ": 8.333436628447474,
+      "Bowler": "B Kumar"
+    },
+    {
+      "bowler": "JJ Bumrah",
+      "RunsConceded": 7447,
+      "Balls": 5572,
+      "Wickets": 270.0,
+      "Econ": 8.019023689877962,
+      "Bowler": "JJ Bumrah"
+    },
+    {
+      "bowler": "PP Chawla",
+      "RunsConceded": 5179,
+      "Balls": 3895,
+      "Wickets": 192.0,
+      "Econ": 7.977920410783056,
+      "Bowler": "PP Chawla"
+    },
+    {
+      "bowler": "SP Narine",
+      "RunsConceded": 5029,
+      "Balls": 4421,
+      "Wickets": 192.0,
+      "Econ": 6.825152680389053,
+      "Bowler": "SP Narine"
+    },
+    {
+      "bowler": "R Ashwin",
+      "RunsConceded": 5721,
+      "Balls": 4868,
+      "Wickets": 187.0,
+      "Econ": 7.051355792933443,
+      "Bowler": "R Ashwin"
+    },
+    {
+      "bowler": "DJ Bravo",
+      "RunsConceded": 4463,
+      "Balls": 3314,
+      "Wickets": 184.0,
+      "Econ": 8.080265540132771,
+      "Bowler": "DJ Bravo"
+    },
+    {
+      "bowler": "A Mishra",
+      "RunsConceded": 4193,
+      "Balls": 3444,
+      "Wickets": 174.0,
+      "Econ": 7.304878048780488,
+      "Bowler": "A Mishra"
+    },
+    {
+      "bowler": "SL Malinga",
+      "RunsConceded": 3524,
+      "Balls": 3004,
+      "Wickets": 171.0,
+      "Econ": 7.03861517976032,
+      "Bowler": "SL Malinga"
+    },
+    {
+      "bowler": "RA Jadeja",
+      "RunsConceded": 5278,
+      "Balls": 4139,
+      "Wickets": 170.0,
+      "Econ": 7.651123459772892,
+      "Bowler": "RA Jadeja"
+    },
+    {
+      "bowler": "Rashid Khan",
+      "RunsConceded": 3876,
+      "Balls": 3249,
+      "Wickets": 158.0,
+      "Econ": 7.157894736842104,
+      "Bowler": "Rashid Khan"
+    },
+    {
+      "bowler": "HV Patel",
+      "RunsConceded": 3649,
+      "Balls": 2570,
+      "Wickets": 151.0,
+      "Econ": 8.519066147859922,
+      "Bowler": "HV Patel"
+    },
+    {
+      "bowler": "Harbhajan Singh",
+      "RunsConceded": 4136,
+      "Balls": 3514,
+      "Wickets": 150.0,
+      "Econ": 7.0620375640295965,
+      "Bowler": "Harbhajan Singh"
+    },
+    {
+      "bowler": "Sandeep Sharma",
+      "RunsConceded": 4177,
+      "Balls": 3210,
+      "Wickets": 147.0,
+      "Econ": 7.807476635514018,
+      "Bowler": "Sandeep Sharma"
+    },
+    {
+      "bowler": "UT Yadav",
+      "RunsConceded": 4442,
+      "Balls": 3190,
+      "Wickets": 144.0,
+      "Econ": 8.354858934169279,
+      "Bowler": "UT Yadav"
+    },
+    {
+      "bowler": "TA Boult",
+      "RunsConceded": 3884,
+      "Balls": 2827,
+      "Wickets": 143.0,
+      "Econ": 8.24336752741422,
+      "Bowler": "TA Boult"
+    },
+    {
+      "bowler": "MM Sharma",
+      "RunsConceded": 3581,
+      "Balls": 2501,
+      "Wickets": 135.0,
+      "Econ": 8.590963614554179,
+      "Bowler": "MM Sharma"
+    },
+    {
+      "bowler": "Mohammed Shami",
+      "RunsConceded": 3935,
+      "Balls": 2757,
+      "Wickets": 134.0,
+      "Econ": 8.563656147986944,
+      "Bowler": "Mohammed Shami"
+    },
+    {
+      "bowler": "AR Patel",
+      "RunsConceded": 4138,
+      "Balls": 3371,
+      "Wickets": 128.0,
+      "Econ": 7.365173539009197,
+      "Bowler": "AR Patel"
+    },
+    {
+      "bowler": "AD Russell",
+      "RunsConceded": 2909,
+      "Balls": 1885,
+      "Wickets": 123.0,
+      "Econ": 9.259416445623343,
+      "Bowler": "AD Russell"
+    },
+    {
+      "bowler": "JD Unadkat",
+      "RunsConceded": 3416,
+      "Balls": 2358,
+      "Wickets": 111.0,
+      "Econ": 8.692111959287532,
+      "Bowler": "JD Unadkat"
+    },
+    {
+      "bowler": "R Vinay Kumar",
+      "RunsConceded": 3088,
+      "Balls": 2216,
+      "Wickets": 109.0,
+      "Econ": 8.36101083032491,
+      "Bowler": "R Vinay Kumar"
+    },
+    {
+      "bowler": "Mohammed Siraj",
+      "RunsConceded": 3434,
+      "Balls": 2448,
+      "Wickets": 109.0,
+      "Econ": 8.416666666666666,
+      "Bowler": "Mohammed Siraj"
+    },
+    {
+      "bowler": "SN Thakur",
+      "RunsConceded": 3309,
+      "Balls": 2217,
+      "Wickets": 107.0,
+      "Econ": 8.955345060893098,
+      "Bowler": "SN Thakur"
+    },
+    {
+      "bowler": "A Nehra",
+      "RunsConceded": 2537,
+      "Balls": 1974,
+      "Wickets": 106.0,
+      "Econ": 7.711246200607903,
+      "Bowler": "A Nehra"
+    },
+    {
+      "bowler": "Z Khan",
+      "RunsConceded": 2895,
+      "Balls": 2312,
+      "Wickets": 104.0,
+      "Econ": 7.512975778546712,
+      "Bowler": "Z Khan"
+    },
+    {
+      "bowler": "Kuldeep Yadav",
+      "RunsConceded": 2823,
+      "Balls": 2116,
+      "Wickets": 102.0,
+      "Econ": 8.004725897920604,
+      "Bowler": "Kuldeep Yadav"
+    },
+    {
+      "bowler": "CV Varun",
+      "RunsConceded": 2450,
+      "Balls": 1944,
+      "Wickets": 100.0,
+      "Econ": 7.561728395061728,
+      "Bowler": "CV Varun"
+    },
+    {
+      "bowler": "Arshdeep Singh",
+      "RunsConceded": 2689,
+      "Balls": 1850,
+      "Wickets": 100.0,
+      "Econ": 8.721081081081081,
+      "Bowler": "Arshdeep Singh"
+    },
+    {
+      "bowler": "DW Steyn",
+      "RunsConceded": 2606,
+      "Balls": 2294,
+      "Wickets": 98.0,
+      "Econ": 6.816041848299912,
+      "Bowler": "DW Steyn"
+    },
+    {
+      "bowler": "CH Morris",
+      "RunsConceded": 2423,
+      "Balls": 1831,
+      "Wickets": 97.0,
+      "Econ": 7.9399235390497,
+      "Bowler": "CH Morris"
+    },
+    {
+      "bowler": "I Sharma",
+      "RunsConceded": 3465,
+      "Balls": 2546,
+      "Wickets": 96.0,
+      "Econ": 8.165750196386488,
+      "Bowler": "I Sharma"
+    },
+    {
+      "bowler": "KH Pandya",
+      "RunsConceded": 3037,
+      "Balls": 2472,
+      "Wickets": 93.0,
+      "Econ": 7.3713592233009715,
+      "Bowler": "KH Pandya"
+    },
+    {
+      "bowler": "KK Ahmed",
+      "RunsConceded": 2475,
+      "Balls": 1707,
+      "Wickets": 92.0,
+      "Econ": 8.699472759226714,
+      "Bowler": "KK Ahmed"
+    },
+    {
+      "bowler": "SR Watson",
+      "RunsConceded": 2742,
+      "Balls": 2137,
+      "Wickets": 92.0,
+      "Econ": 7.698642957416939,
+      "Bowler": "SR Watson"
+    },
+    {
+      "bowler": "RP Singh",
+      "RunsConceded": 2417,
+      "Balls": 1874,
+      "Wickets": 90.0,
+      "Econ": 7.7385272145144075,
+      "Bowler": "RP Singh"
+    },
+    {
+      "bowler": "P Kumar",
+      "RunsConceded": 3342,
+      "Balls": 2637,
+      "Wickets": 90.0,
+      "Econ": 7.604095563139931,
+      "Bowler": "P Kumar"
+    },
+    {
+      "bowler": "PP Ojha",
+      "RunsConceded": 2399,
+      "Balls": 1945,
+      "Wickets": 89.0,
+      "Econ": 7.40051413881748,
+      "Bowler": "PP Ojha"
+    },
+    {
+      "bowler": "DL Chahar",
+      "RunsConceded": 2641,
+      "Balls": 2021,
+      "Wickets": 88.0,
+      "Econ": 7.840672934190994,
+      "Bowler": "DL Chahar"
+    },
+    {
+      "bowler": "Avesh Khan",
+      "RunsConceded": 2571,
+      "Balls": 1714,
+      "Wickets": 88.0,
+      "Econ": 9.0,
+      "Bowler": "Avesh Khan"
+    },
+    {
+      "bowler": "DS Kulkarni",
+      "RunsConceded": 2556,
+      "Balls": 1888,
+      "Wickets": 86.0,
+      "Econ": 8.122881355932204,
+      "Bowler": "DS Kulkarni"
+    },
+    {
+      "bowler": "JA Morkel",
+      "RunsConceded": 2431,
+      "Balls": 1831,
+      "Wickets": 85.0,
+      "Econ": 7.9661387220098305,
+      "Bowler": "JA Morkel"
+    },
+    {
+      "bowler": "KV Sharma",
+      "RunsConceded": 2296,
+      "Balls": 1635,
+      "Wickets": 83.0,
+      "Econ": 8.425688073394495,
+      "Bowler": "KV Sharma"
+    },
+    {
+      "bowler": "Imran Tahir",
+      "RunsConceded": 1729,
+      "Balls": 1340,
+      "Wickets": 82.0,
+      "Econ": 7.741791044776119,
+      "Bowler": "Imran Tahir"
+    },
+    {
+      "bowler": "HH Pandya",
+      "RunsConceded": 2604,
+      "Balls": 1750,
+      "Wickets": 81.0,
+      "Econ": 8.928,
+      "Bowler": "HH Pandya"
+    },
+    {
+      "bowler": "IK Pathan",
+      "RunsConceded": 2711,
+      "Balls": 2113,
+      "Wickets": 80.0,
+      "Econ": 7.698059630856601,
+      "Bowler": "IK Pathan"
+    },
+    {
+      "bowler": "PJ Cummins",
+      "RunsConceded": 2436,
+      "Balls": 1682,
+      "Wickets": 79.0,
+      "Econ": 8.689655172413794,
+      "Bowler": "PJ Cummins"
+    },
+    {
+      "bowler": "L Balaji",
+      "RunsConceded": 2130,
+      "Balls": 1604,
+      "Wickets": 79.0,
+      "Econ": 7.967581047381546,
+      "Bowler": "L Balaji"
+    },
+    {
+      "bowler": "M Morkel",
+      "RunsConceded": 2147,
+      "Balls": 1705,
+      "Wickets": 77.0,
+      "Econ": 7.555425219941349,
+      "Bowler": "M Morkel"
+    }
+  ],
+  "venue_stats": [
+    {
+      "Venue": "Arun Jaitley Stadium",
+      "MatchesPlayed": 14,
+      "AvgMargin": 23.428571428571427
+    },
+    {
+      "Venue": "Arun Jaitley Stadium, Delhi",
+      "MatchesPlayed": 23,
+      "AvgMargin": 35.666666666666664
+    },
+    {
+      "Venue": "Barabati Stadium",
+      "MatchesPlayed": 7,
+      "AvgMargin": 18.25
+    },
+    {
+      "Venue": "Barsapara Cricket Stadium, Guwahati",
+      "MatchesPlayed": 5,
+      "AvgMargin": 22.666666666666668
+    },
+    {
+      "Venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+      "MatchesPlayed": 22,
+      "AvgMargin": 31.77777777777778
+    },
+    {
+      "Venue": "Brabourne Stadium",
+      "MatchesPlayed": 10,
+      "AvgMargin": 22.666666666666668
+    },
+    {
+      "Venue": "Brabourne Stadium, Mumbai",
+      "MatchesPlayed": 17,
+      "AvgMargin": 28.375
+    },
+    {
+      "Venue": "Buffalo Park",
+      "MatchesPlayed": 3,
+      "AvgMargin": 43.5
+    },
+    {
+      "Venue": "De Beers Diamond Oval",
+      "MatchesPlayed": 3,
+      "AvgMargin": 53.0
+    },
+    {
+      "Venue": "Dr DY Patil Sports Academy",
+      "MatchesPlayed": 17,
+      "AvgMargin": 28.142857142857142
+    },
+    {
+      "Venue": "Dr DY Patil Sports Academy, Mumbai",
+      "MatchesPlayed": 20,
+      "AvgMargin": 28.3
+    },
+    {
+      "Venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+      "MatchesPlayed": 13,
+      "AvgMargin": 40.285714285714285
+    },
+    {
+      "Venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+      "MatchesPlayed": 4,
+      "AvgMargin": 63.0
+    },
+    {
+      "Venue": "Dubai International Cricket Stadium",
+      "MatchesPlayed": 46,
+      "AvgMargin": 35.19047619047619
+    },
+    {
+      "Venue": "Eden Gardens",
+      "MatchesPlayed": 77,
+      "AvgMargin": 27.21875
+    },
+    {
+      "Venue": "Eden Gardens, Kolkata",
+      "MatchesPlayed": 23,
+      "AvgMargin": 26.25
+    },
+    {
+      "Venue": "Feroz Shah Kotla",
+      "MatchesPlayed": 60,
+      "AvgMargin": 31.285714285714285
+    },
+    {
+      "Venue": "Green Park",
+      "MatchesPlayed": 4,
+      "AvgMargin": 0.0
+    },
+    {
+      "Venue": "Himachal Pradesh Cricket Association Stadium",
+      "MatchesPlayed": 9,
+      "AvgMargin": 55.8
+    },
+    {
+      "Venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+      "MatchesPlayed": 5,
+      "AvgMargin": 35.0
+    },
+    {
+      "Venue": "Holkar Cricket Stadium",
+      "MatchesPlayed": 9,
+      "AvgMargin": 31.0
+    },
+    {
+      "Venue": "JSCA International Stadium Complex",
+      "MatchesPlayed": 7,
+      "AvgMargin": 20.5
+    },
+    {
+      "Venue": "Kingsmead",
+      "MatchesPlayed": 15,
+      "AvgMargin": 17.666666666666668
+    },
+    {
+      "Venue": "M Chinnaswamy Stadium",
+      "MatchesPlayed": 65,
+      "AvgMargin": 48.0
+    },
+    {
+      "Venue": "M Chinnaswamy Stadium, Bengaluru",
+      "MatchesPlayed": 20,
+      "AvgMargin": 19.9
+    },
+    {
+      "Venue": "M.Chinnaswamy Stadium",
+      "MatchesPlayed": 15,
+      "AvgMargin": 12.285714285714286
+    },
+    {
+      "Venue": "MA Chidambaram Stadium",
+      "MatchesPlayed": 9,
+      "AvgMargin": 39.0
+    },
+    {
+      "Venue": "MA Chidambaram Stadium, Chepauk",
+      "MatchesPlayed": 50,
+      "AvgMargin": 23.548387096774192
+    },
+    {
+      "Venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+      "MatchesPlayed": 34,
+      "AvgMargin": 31.133333333333333
+    },
+    {
+      "Venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+      "MatchesPlayed": 10,
+      "AvgMargin": 19.0
+    },
+    {
+      "Venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
+      "MatchesPlayed": 1,
+      "AvgMargin": 20.0
+    },
+    {
+      "Venue": "Maharashtra Cricket Association Stadium",
+      "MatchesPlayed": 22,
+      "AvgMargin": 44.5
+    },
+    {
+      "Venue": "Maharashtra Cricket Association Stadium, Pune",
+      "MatchesPlayed": 13,
+      "AvgMargin": 35.3
+    },
+    {
+      "Venue": "Narendra Modi Stadium, Ahmedabad",
+      "MatchesPlayed": 33,
+      "AvgMargin": 34.5625
+    },
+    {
+      "Venue": "Narendra Modi Stadium, Motera",
+      "MatchesPlayed": 2,
+      "AvgMargin": 40.0
+    },
+    {
+      "Venue": "Nehru Stadium",
+      "MatchesPlayed": 5,
+      "AvgMargin": 36.666666666666664
+    },
+    {
+      "Venue": "New Wanderers Stadium",
+      "MatchesPlayed": 8,
+      "AvgMargin": 8.333333333333334
+    },
+    {
+      "Venue": "Newlands",
+      "MatchesPlayed": 7,
+      "AvgMargin": 36.25
+    },
+    {
+      "Venue": "OUTsurance Oval",
+      "MatchesPlayed": 2,
+      "AvgMargin": 14.0
+    },
+    {
+      "Venue": "Punjab Cricket Association IS Bindra Stadium",
+      "MatchesPlayed": 10,
+      "AvgMargin": 11.25
+    },
+    {
+      "Venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+      "MatchesPlayed": 11,
+      "AvgMargin": 15.0
+    },
+    {
+      "Venue": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",
+      "MatchesPlayed": 5,
+      "AvgMargin": 29.0
+    },
+    {
+      "Venue": "Punjab Cricket Association Stadium, Mohali",
+      "MatchesPlayed": 35,
+      "AvgMargin": 33.4
+    },
+    {
+      "Venue": "Rajiv Gandhi International Stadium",
+      "MatchesPlayed": 15,
+      "AvgMargin": 33.125
+    },
+    {
+      "Venue": "Rajiv Gandhi International Stadium, Uppal",
+      "MatchesPlayed": 49,
+      "AvgMargin": 24.3
+    },
+    {
+      "Venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+      "MatchesPlayed": 19,
+      "AvgMargin": 26.125
+    },
+    {
+      "Venue": "Sardar Patel Stadium, Motera",
+      "MatchesPlayed": 12,
+      "AvgMargin": 30.0
+    },
+    {
+      "Venue": "Saurashtra Cricket Association Stadium",
+      "MatchesPlayed": 10,
+      "AvgMargin": 23.333333333333332
+    },
+    {
+      "Venue": "Sawai Mansingh Stadium",
+      "MatchesPlayed": 47,
+      "AvgMargin": 36.0
+    },
+    {
+      "Venue": "Sawai Mansingh Stadium, Jaipur",
+      "MatchesPlayed": 17,
+      "AvgMargin": 37.25
+    },
+    {
+      "Venue": "Shaheed Veer Narayan Singh International Stadium",
+      "MatchesPlayed": 6,
+      "AvgMargin": 10.5
+    },
+    {
+      "Venue": "Sharjah Cricket Stadium",
+      "MatchesPlayed": 28,
+      "AvgMargin": 36.7
+    },
+    {
+      "Venue": "Sheikh Zayed Stadium",
+      "MatchesPlayed": 29,
+      "AvgMargin": 37.63636363636363
+    },
+    {
+      "Venue": "St George's Park",
+      "MatchesPlayed": 7,
+      "AvgMargin": 66.66666666666667
+    },
+    {
+      "Venue": "Subrata Roy Sahara Stadium",
+      "MatchesPlayed": 16,
+      "AvgMargin": 26.6
+    },
+    {
+      "Venue": "SuperSport Park",
+      "MatchesPlayed": 12,
+      "AvgMargin": 20.25
+    },
+    {
+      "Venue": "Vidarbha Cricket Association Stadium, Jamtha",
+      "MatchesPlayed": 3,
+      "AvgMargin": 7.5
+    },
+    {
+      "Venue": "Wankhede Stadium",
+      "MatchesPlayed": 143,
+      "AvgMargin": 28.028985507246375
+    },
+    {
+      "Venue": "Wankhede Stadium, Mumbai",
+      "MatchesPlayed": 52,
+      "AvgMargin": 26.142857142857142
+    },
+    {
+      "Venue": "Zayed Cricket Stadium, Abu Dhabi",
+      "MatchesPlayed": 8,
+      "AvgMargin": 26.333333333333332
+    }
+  ],
+  "seasons_data": {
+    "2008": {
+      "champions": "Chennai Super Kings",
+      "runner_up": "Punjab Kings",
+      "total_matches": 58,
+      "total_runs": 16809,
+      "total_wickets": 604,
+      "total_sixes": 623,
+      "total_fours": 1703,
+      "total_teams": 8,
+      "total_venues": 9,
+      "centuries": 6,
+      "half_centuries": 83,
+      "orange_cap": {
+        "player": "SE Marsh",
+        "val": 616,
+        "team": "Punjab Kings"
+      },
+      "purple_cap": {
+        "player": "Sohail Tanvir",
+        "val": 22,
+        "team": "Rajasthan Royals"
+      },
+      "top_fours": {
+        "player": "G Gambhir",
+        "val": 68,
+        "team": "Delhi Capitals"
+      },
+      "top_sixes": {
+        "player": "ST Jayasuriya",
+        "val": 31,
+        "team": "Mumbai Indians"
+      },
+      "points_table": [
+        {
+          "Team": "Rajasthan Royals",
+          "Played": 16,
+          "Won": 13,
+          "Lost": 3,
+          "NR": 0,
+          "Points": 26
+        },
+        {
+          "Team": "Punjab Kings",
+          "Played": 15,
+          "Won": 10,
+          "Lost": 5,
+          "NR": 0,
+          "Points": 20
+        },
+        {
+          "Team": "Chennai Super Kings",
+          "Played": 16,
+          "Won": 9,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 18
+        },
+        {
+          "Team": "Delhi Capitals",
+          "Played": 14,
+          "Won": 7,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Mumbai Indians",
+          "Played": 14,
+          "Won": 7,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 13,
+          "Won": 6,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Royal Challengers Bangalore",
+          "Played": 14,
+          "Won": 4,
+          "Lost": 10,
+          "NR": 0,
+          "Points": 8
+        },
+        {
+          "Team": "Sunrisers Hyderabad",
+          "Played": 14,
+          "Won": 2,
+          "Lost": 12,
+          "NR": 0,
+          "Points": 4
+        }
+      ]
+    },
+    "2009": {
+      "champions": "Chennai Super Kings",
+      "runner_up": "Rajasthan Royals",
+      "total_matches": 57,
+      "total_runs": 15376,
+      "total_wickets": 622,
+      "total_sixes": 508,
+      "total_fours": 1321,
+      "total_teams": 8,
+      "total_venues": 8,
+      "centuries": 2,
+      "half_centuries": 70,
+      "orange_cap": {
+        "player": "ML Hayden",
+        "val": 572,
+        "team": "Chennai Super Kings"
+      },
+      "purple_cap": {
+        "player": "RP Singh",
+        "val": 23,
+        "team": "Sunrisers Hyderabad"
+      },
+      "top_fours": {
+        "player": "ML Hayden",
+        "val": 60,
+        "team": "Chennai Super Kings"
+      },
+      "top_sixes": {
+        "player": "AC Gilchrist",
+        "val": 29,
+        "team": "Sunrisers Hyderabad"
+      },
+      "points_table": [
+        {
+          "Team": "Delhi Capitals",
+          "Played": 15,
+          "Won": 10,
+          "Lost": 5,
+          "NR": 0,
+          "Points": 20
+        },
+        {
+          "Team": "Sunrisers Hyderabad",
+          "Played": 16,
+          "Won": 9,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 18
+        },
+        {
+          "Team": "Royal Challengers Bangalore",
+          "Played": 16,
+          "Won": 9,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 18
+        },
+        {
+          "Team": "Chennai Super Kings",
+          "Played": 14,
+          "Won": 8,
+          "Lost": 6,
+          "NR": 0,
+          "Points": 16
+        },
+        {
+          "Team": "Punjab Kings",
+          "Played": 14,
+          "Won": 7,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Rajasthan Royals",
+          "Played": 13,
+          "Won": 5,
+          "Lost": 7,
+          "NR": 1,
+          "Points": 11
+        },
+        {
+          "Team": "Mumbai Indians",
+          "Played": 13,
+          "Won": 5,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 10
+        },
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 13,
+          "Won": 3,
+          "Lost": 9,
+          "NR": 1,
+          "Points": 7
+        }
+      ]
+    },
+    "2010": {
+      "champions": "Chennai Super Kings",
+      "runner_up": "Royal Challengers Bangalore",
+      "total_matches": 60,
+      "total_runs": 17754,
+      "total_wickets": 630,
+      "total_sixes": 587,
+      "total_fours": 1709,
+      "total_teams": 8,
+      "total_venues": 13,
+      "centuries": 4,
+      "half_centuries": 88,
+      "orange_cap": {
+        "player": "SR Tendulkar",
+        "val": 618,
+        "team": "Mumbai Indians"
+      },
+      "purple_cap": {
+        "player": "PP Ojha",
+        "val": 21,
+        "team": "Sunrisers Hyderabad"
+      },
+      "top_fours": {
+        "player": "SR Tendulkar",
+        "val": 86,
+        "team": "Mumbai Indians"
+      },
+      "top_sixes": {
+        "player": "RV Uthappa",
+        "val": 27,
+        "team": "Royal Challengers Bangalore"
+      },
+      "points_table": [
+        {
+          "Team": "Mumbai Indians",
+          "Played": 16,
+          "Won": 11,
+          "Lost": 5,
+          "NR": 0,
+          "Points": 22
+        },
+        {
+          "Team": "Chennai Super Kings",
+          "Played": 16,
+          "Won": 9,
+          "Lost": 6,
+          "NR": 1,
+          "Points": 19
+        },
+        {
+          "Team": "Sunrisers Hyderabad",
+          "Played": 16,
+          "Won": 8,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 16
+        },
+        {
+          "Team": "Royal Challengers Bangalore",
+          "Played": 16,
+          "Won": 8,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 16
+        },
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 14,
+          "Won": 7,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Delhi Capitals",
+          "Played": 14,
+          "Won": 7,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Rajasthan Royals",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Punjab Kings",
+          "Played": 14,
+          "Won": 3,
+          "Lost": 10,
+          "NR": 1,
+          "Points": 7
+        }
+      ]
+    },
+    "2011": {
+      "champions": "Kolkata Knight Riders",
+      "runner_up": "Punjab Kings",
+      "total_matches": 73,
+      "total_runs": 19928,
+      "total_wickets": 739,
+      "total_sixes": 639,
+      "total_fours": 1916,
+      "total_teams": 10,
+      "total_venues": 12,
+      "centuries": 6,
+      "half_centuries": 89,
+      "orange_cap": {
+        "player": "CH Gayle",
+        "val": 608,
+        "team": "Royal Challengers Bangalore"
+      },
+      "purple_cap": {
+        "player": "SL Malinga",
+        "val": 28,
+        "team": "Mumbai Indians"
+      },
+      "top_fours": {
+        "player": "SR Tendulkar",
+        "val": 67,
+        "team": "Mumbai Indians"
+      },
+      "top_sixes": {
+        "player": "CH Gayle",
+        "val": 44,
+        "team": "Royal Challengers Bangalore"
+      },
+      "points_table": [
+        {
+          "Team": "Chennai Super Kings",
+          "Played": 16,
+          "Won": 11,
+          "Lost": 5,
+          "NR": 0,
+          "Points": 22
+        },
+        {
+          "Team": "Mumbai Indians",
+          "Played": 16,
+          "Won": 10,
+          "Lost": 6,
+          "NR": 0,
+          "Points": 20
+        },
+        {
+          "Team": "Royal Challengers Bangalore",
+          "Played": 16,
+          "Won": 10,
+          "Lost": 6,
+          "NR": 0,
+          "Points": 20
+        },
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 15,
+          "Won": 8,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 16
+        },
+        {
+          "Team": "Punjab Kings",
+          "Played": 14,
+          "Won": 7,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Rajasthan Royals",
+          "Played": 13,
+          "Won": 6,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Sunrisers Hyderabad",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Kochi Tuskers Kerala",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Delhi Capitals",
+          "Played": 14,
+          "Won": 4,
+          "Lost": 9,
+          "NR": 1,
+          "Points": 9
+        },
+        {
+          "Team": "Pune Warriors",
+          "Played": 14,
+          "Won": 4,
+          "Lost": 9,
+          "NR": 1,
+          "Points": 9
+        }
+      ]
+    },
+    "2012": {
+      "champions": "Kolkata Knight Riders",
+      "runner_up": "Chennai Super Kings",
+      "total_matches": 74,
+      "total_runs": 21323,
+      "total_wickets": 772,
+      "total_sixes": 733,
+      "total_fours": 1911,
+      "total_teams": 9,
+      "total_venues": 12,
+      "centuries": 6,
+      "half_centuries": 96,
+      "orange_cap": {
+        "player": "CH Gayle",
+        "val": 733,
+        "team": "Royal Challengers Bangalore"
+      },
+      "purple_cap": {
+        "player": "M Morkel",
+        "val": 25,
+        "team": "Delhi Capitals"
+      },
+      "top_fours": {
+        "player": "AM Rahane",
+        "val": 73,
+        "team": "Rajasthan Royals"
+      },
+      "top_sixes": {
+        "player": "CH Gayle",
+        "val": 59,
+        "team": "Royal Challengers Bangalore"
+      },
+      "points_table": [
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 17,
+          "Won": 12,
+          "Lost": 5,
+          "NR": 0,
+          "Points": 24
+        },
+        {
+          "Team": "Delhi Capitals",
+          "Played": 18,
+          "Won": 11,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 22
+        },
+        {
+          "Team": "Chennai Super Kings",
+          "Played": 18,
+          "Won": 10,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 20
+        },
+        {
+          "Team": "Mumbai Indians",
+          "Played": 17,
+          "Won": 10,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 20
+        },
+        {
+          "Team": "Punjab Kings",
+          "Played": 16,
+          "Won": 8,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 16
+        },
+        {
+          "Team": "Royal Challengers Bangalore",
+          "Played": 15,
+          "Won": 8,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 16
+        },
+        {
+          "Team": "Rajasthan Royals",
+          "Played": 16,
+          "Won": 7,
+          "Lost": 9,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Sunrisers Hyderabad",
+          "Played": 15,
+          "Won": 4,
+          "Lost": 11,
+          "NR": 0,
+          "Points": 8
+        },
+        {
+          "Team": "Pune Warriors",
+          "Played": 16,
+          "Won": 4,
+          "Lost": 12,
+          "NR": 0,
+          "Points": 8
+        }
+      ]
+    },
+    "2013": {
+      "champions": "Chennai Super Kings",
+      "runner_up": "Pune Warriors",
+      "total_matches": 76,
+      "total_runs": 21487,
+      "total_wickets": 831,
+      "total_sixes": 681,
+      "total_fours": 2054,
+      "total_teams": 9,
+      "total_venues": 13,
+      "centuries": 4,
+      "half_centuries": 99,
+      "orange_cap": {
+        "player": "MEK Hussey",
+        "val": 733,
+        "team": "Chennai Super Kings"
+      },
+      "purple_cap": {
+        "player": "DJ Bravo",
+        "val": 32,
+        "team": "Chennai Super Kings"
+      },
+      "top_fours": {
+        "player": "MEK Hussey",
+        "val": 81,
+        "team": "Chennai Super Kings"
+      },
+      "top_sixes": {
+        "player": "CH Gayle",
+        "val": 52,
+        "team": "Royal Challengers Bangalore"
+      },
+      "points_table": [
+        {
+          "Team": "Mumbai Indians",
+          "Played": 19,
+          "Won": 13,
+          "Lost": 6,
+          "NR": 0,
+          "Points": 26
+        },
+        {
+          "Team": "Chennai Super Kings",
+          "Played": 18,
+          "Won": 12,
+          "Lost": 6,
+          "NR": 0,
+          "Points": 24
+        },
+        {
+          "Team": "Rajasthan Royals",
+          "Played": 18,
+          "Won": 11,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 22
+        },
+        {
+          "Team": "Sunrisers Hyderabad",
+          "Played": 17,
+          "Won": 9,
+          "Lost": 7,
+          "NR": 1,
+          "Points": 19
+        },
+        {
+          "Team": "Royal Challengers Bangalore",
+          "Played": 16,
+          "Won": 8,
+          "Lost": 6,
+          "NR": 2,
+          "Points": 18
+        },
+        {
+          "Team": "Punjab Kings",
+          "Played": 16,
+          "Won": 8,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 16
+        },
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 16,
+          "Won": 6,
+          "Lost": 10,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Pune Warriors",
+          "Played": 16,
+          "Won": 4,
+          "Lost": 12,
+          "NR": 0,
+          "Points": 8
+        },
+        {
+          "Team": "Delhi Capitals",
+          "Played": 16,
+          "Won": 3,
+          "Lost": 12,
+          "NR": 1,
+          "Points": 7
+        }
+      ]
+    },
+    "2014": {
+      "champions": "Punjab Kings",
+      "runner_up": "Chennai Super Kings",
+      "total_matches": 60,
+      "total_runs": 17943,
+      "total_wickets": 606,
+      "total_sixes": 715,
+      "total_fours": 1563,
+      "total_teams": 8,
+      "total_venues": 13,
+      "centuries": 3,
+      "half_centuries": 91,
+      "orange_cap": {
+        "player": "RV Uthappa",
+        "val": 660,
+        "team": "Kolkata Knight Riders"
+      },
+      "purple_cap": {
+        "player": "MM Sharma",
+        "val": 23,
+        "team": "Chennai Super Kings"
+      },
+      "top_fours": {
+        "player": "RV Uthappa",
+        "val": 74,
+        "team": "Kolkata Knight Riders"
+      },
+      "top_sixes": {
+        "player": "GJ Maxwell",
+        "val": 36,
+        "team": "Punjab Kings"
+      },
+      "points_table": [
+        {
+          "Team": "Punjab Kings",
+          "Played": 17,
+          "Won": 12,
+          "Lost": 5,
+          "NR": 0,
+          "Points": 24
+        },
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 16,
+          "Won": 11,
+          "Lost": 4,
+          "NR": 1,
+          "Points": 23
+        },
+        {
+          "Team": "Chennai Super Kings",
+          "Played": 16,
+          "Won": 10,
+          "Lost": 6,
+          "NR": 0,
+          "Points": 20
+        },
+        {
+          "Team": "Mumbai Indians",
+          "Played": 15,
+          "Won": 7,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Rajasthan Royals",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 7,
+          "NR": 1,
+          "Points": 13
+        },
+        {
+          "Team": "Sunrisers Hyderabad",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Royal Challengers Bangalore",
+          "Played": 14,
+          "Won": 5,
+          "Lost": 9,
+          "NR": 0,
+          "Points": 10
+        },
+        {
+          "Team": "Delhi Capitals",
+          "Played": 14,
+          "Won": 2,
+          "Lost": 12,
+          "NR": 0,
+          "Points": 4
+        }
+      ]
+    },
+    "2015": {
+      "champions": "Kolkata Knight Riders",
+      "runner_up": "Chennai Super Kings",
+      "total_matches": 59,
+      "total_runs": 17427,
+      "total_wickets": 626,
+      "total_sixes": 692,
+      "total_fours": 1611,
+      "total_teams": 8,
+      "total_venues": 13,
+      "centuries": 4,
+      "half_centuries": 89,
+      "orange_cap": {
+        "player": "DA Warner",
+        "val": 562,
+        "team": "Sunrisers Hyderabad"
+      },
+      "purple_cap": {
+        "player": "DJ Bravo",
+        "val": 26,
+        "team": "Chennai Super Kings"
+      },
+      "top_fours": {
+        "player": "DA Warner",
+        "val": 65,
+        "team": "Sunrisers Hyderabad"
+      },
+      "top_sixes": {
+        "player": "CH Gayle",
+        "val": 38,
+        "team": "Royal Challengers Bangalore"
+      },
+      "points_table": [
+        {
+          "Team": "Chennai Super Kings",
+          "Played": 17,
+          "Won": 10,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 20
+        },
+        {
+          "Team": "Mumbai Indians",
+          "Played": 16,
+          "Won": 10,
+          "Lost": 6,
+          "NR": 0,
+          "Points": 20
+        },
+        {
+          "Team": "Royal Challengers Bangalore",
+          "Played": 16,
+          "Won": 8,
+          "Lost": 6,
+          "NR": 2,
+          "Points": 18
+        },
+        {
+          "Team": "Rajasthan Royals",
+          "Played": 14,
+          "Won": 7,
+          "Lost": 5,
+          "NR": 2,
+          "Points": 16
+        },
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 13,
+          "Won": 7,
+          "Lost": 6,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Sunrisers Hyderabad",
+          "Played": 14,
+          "Won": 7,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Delhi Capitals",
+          "Played": 14,
+          "Won": 5,
+          "Lost": 8,
+          "NR": 1,
+          "Points": 11
+        },
+        {
+          "Team": "Punjab Kings",
+          "Played": 14,
+          "Won": 2,
+          "Lost": 11,
+          "NR": 1,
+          "Points": 5
+        }
+      ]
+    },
+    "2016": {
+      "champions": "Sunrisers Hyderabad",
+      "runner_up": "Royal Challengers Bangalore",
+      "total_matches": 60,
+      "total_runs": 17962,
+      "total_wickets": 591,
+      "total_sixes": 639,
+      "total_fours": 1633,
+      "total_teams": 8,
+      "total_venues": 11,
+      "centuries": 7,
+      "half_centuries": 110,
+      "orange_cap": {
+        "player": "V Kohli",
+        "val": 973,
+        "team": "Royal Challengers Bangalore"
+      },
+      "purple_cap": {
+        "player": "B Kumar",
+        "val": 23,
+        "team": "Sunrisers Hyderabad"
+      },
+      "top_fours": {
+        "player": "DA Warner",
+        "val": 88,
+        "team": "Sunrisers Hyderabad"
+      },
+      "top_sixes": {
+        "player": "V Kohli",
+        "val": 38,
+        "team": "Royal Challengers Bangalore"
+      },
+      "points_table": [
+        {
+          "Team": "Sunrisers Hyderabad",
+          "Played": 17,
+          "Won": 11,
+          "Lost": 6,
+          "NR": 0,
+          "Points": 22
+        },
+        {
+          "Team": "Gujarat Lions",
+          "Played": 16,
+          "Won": 9,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 18
+        },
+        {
+          "Team": "Royal Challengers Bangalore",
+          "Played": 16,
+          "Won": 9,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 18
+        },
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 15,
+          "Won": 8,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 16
+        },
+        {
+          "Team": "Delhi Capitals",
+          "Played": 14,
+          "Won": 7,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Mumbai Indians",
+          "Played": 14,
+          "Won": 7,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Rising Pune Supergiant",
+          "Played": 14,
+          "Won": 5,
+          "Lost": 9,
+          "NR": 0,
+          "Points": 10
+        },
+        {
+          "Team": "Punjab Kings",
+          "Played": 14,
+          "Won": 4,
+          "Lost": 10,
+          "NR": 0,
+          "Points": 8
+        }
+      ]
+    },
+    "2017": {
+      "champions": "Sunrisers Hyderabad",
+      "runner_up": "Kolkata Knight Riders",
+      "total_matches": 59,
+      "total_runs": 17920,
+      "total_wickets": 652,
+      "total_sixes": 706,
+      "total_fours": 1612,
+      "total_teams": 8,
+      "total_venues": 11,
+      "centuries": 5,
+      "half_centuries": 95,
+      "orange_cap": {
+        "player": "DA Warner",
+        "val": 641,
+        "team": "Sunrisers Hyderabad"
+      },
+      "purple_cap": {
+        "player": "B Kumar",
+        "val": 26,
+        "team": "Sunrisers Hyderabad"
+      },
+      "top_fours": {
+        "player": "DA Warner",
+        "val": 63,
+        "team": "Sunrisers Hyderabad"
+      },
+      "top_sixes": {
+        "player": "DA Warner",
+        "val": 26,
+        "team": "Sunrisers Hyderabad"
+      },
+      "points_table": [
+        {
+          "Team": "Mumbai Indians",
+          "Played": 17,
+          "Won": 11,
+          "Lost": 5,
+          "NR": 1,
+          "Points": 23
+        },
+        {
+          "Team": "Rising Pune Supergiant",
+          "Played": 16,
+          "Won": 10,
+          "Lost": 6,
+          "NR": 0,
+          "Points": 20
+        },
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 16,
+          "Won": 9,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 18
+        },
+        {
+          "Team": "Sunrisers Hyderabad",
+          "Played": 14,
+          "Won": 8,
+          "Lost": 6,
+          "NR": 0,
+          "Points": 16
+        },
+        {
+          "Team": "Punjab Kings",
+          "Played": 14,
+          "Won": 7,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Delhi Capitals",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Gujarat Lions",
+          "Played": 14,
+          "Won": 4,
+          "Lost": 9,
+          "NR": 1,
+          "Points": 9
+        },
+        {
+          "Team": "Royal Challengers Bangalore",
+          "Played": 13,
+          "Won": 3,
+          "Lost": 10,
+          "NR": 0,
+          "Points": 6
+        }
+      ]
+    },
+    "2018": {
+      "champions": "Chennai Super Kings",
+      "runner_up": "Delhi Capitals",
+      "total_matches": 60,
+      "total_runs": 19098,
+      "total_wickets": 662,
+      "total_sixes": 872,
+      "total_fours": 1652,
+      "total_teams": 8,
+      "total_venues": 10,
+      "centuries": 5,
+      "half_centuries": 101,
+      "orange_cap": {
+        "player": "KS Williamson",
+        "val": 735,
+        "team": "Sunrisers Hyderabad"
+      },
+      "purple_cap": {
+        "player": "AJ Tye",
+        "val": 24,
+        "team": "Punjab Kings"
+      },
+      "top_fours": {
+        "player": "RR Pant",
+        "val": 68,
+        "team": "Delhi Capitals"
+      },
+      "top_sixes": {
+        "player": "RR Pant",
+        "val": 37,
+        "team": "Delhi Capitals"
+      },
+      "points_table": [
+        {
+          "Team": "Chennai Super Kings",
+          "Played": 16,
+          "Won": 11,
+          "Lost": 5,
+          "NR": 0,
+          "Points": 22
+        },
+        {
+          "Team": "Sunrisers Hyderabad",
+          "Played": 17,
+          "Won": 10,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 20
+        },
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 16,
+          "Won": 9,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 18
+        },
+        {
+          "Team": "Rajasthan Royals",
+          "Played": 15,
+          "Won": 7,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Punjab Kings",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Mumbai Indians",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Royal Challengers Bangalore",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Delhi Capitals",
+          "Played": 14,
+          "Won": 5,
+          "Lost": 9,
+          "NR": 0,
+          "Points": 10
+        }
+      ]
+    },
+    "2019": {
+      "champions": "Sunrisers Hyderabad",
+      "runner_up": "Royal Challengers Bangalore",
+      "total_matches": 60,
+      "total_runs": 18607,
+      "total_wickets": 642,
+      "total_sixes": 786,
+      "total_fours": 1655,
+      "total_teams": 8,
+      "total_venues": 9,
+      "centuries": 6,
+      "half_centuries": 106,
+      "orange_cap": {
+        "player": "DA Warner",
+        "val": 692,
+        "team": "Sunrisers Hyderabad"
+      },
+      "purple_cap": {
+        "player": "Imran Tahir",
+        "val": 26,
+        "team": "Chennai Super Kings"
+      },
+      "top_fours": {
+        "player": "S Dhawan",
+        "val": 64,
+        "team": "Delhi Capitals"
+      },
+      "top_sixes": {
+        "player": "AD Russell",
+        "val": 52,
+        "team": "Kolkata Knight Riders"
+      },
+      "points_table": [
+        {
+          "Team": "Mumbai Indians",
+          "Played": 16,
+          "Won": 10,
+          "Lost": 5,
+          "NR": 1,
+          "Points": 21
+        },
+        {
+          "Team": "Chennai Super Kings",
+          "Played": 17,
+          "Won": 10,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 20
+        },
+        {
+          "Team": "Delhi Capitals",
+          "Played": 16,
+          "Won": 9,
+          "Lost": 6,
+          "NR": 1,
+          "Points": 19
+        },
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 7,
+          "NR": 1,
+          "Points": 13
+        },
+        {
+          "Team": "Sunrisers Hyderabad",
+          "Played": 15,
+          "Won": 6,
+          "Lost": 8,
+          "NR": 1,
+          "Points": 13
+        },
+        {
+          "Team": "Punjab Kings",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Rajasthan Royals",
+          "Played": 14,
+          "Won": 5,
+          "Lost": 8,
+          "NR": 1,
+          "Points": 11
+        },
+        {
+          "Team": "Royal Challengers Bangalore",
+          "Played": 14,
+          "Won": 5,
+          "Lost": 8,
+          "NR": 1,
+          "Points": 11
+        }
+      ]
+    },
+    "2020/21": {
+      "champions": "Sunrisers Hyderabad",
+      "runner_up": "Royal Challengers Bangalore",
+      "total_matches": 60,
+      "total_runs": 18566,
+      "total_wickets": 632,
+      "total_sixes": 736,
+      "total_fours": 1589,
+      "total_teams": 8,
+      "total_venues": 3,
+      "centuries": 5,
+      "half_centuries": 110,
+      "orange_cap": {
+        "player": "KL Rahul",
+        "val": 676,
+        "team": "Punjab Kings"
+      },
+      "purple_cap": {
+        "player": "K Rabada",
+        "val": 32,
+        "team": "Delhi Capitals"
+      },
+      "top_fours": {
+        "player": "S Dhawan",
+        "val": 67,
+        "team": "Delhi Capitals"
+      },
+      "top_sixes": {
+        "player": "Ishan Kishan",
+        "val": 30,
+        "team": "Mumbai Indians"
+      },
+      "points_table": [
+        {
+          "Team": "Mumbai Indians",
+          "Played": 16,
+          "Won": 11,
+          "Lost": 3,
+          "NR": 2,
+          "Points": 24
+        },
+        {
+          "Team": "Delhi Capitals",
+          "Played": 17,
+          "Won": 8,
+          "Lost": 8,
+          "NR": 1,
+          "Points": 17
+        },
+        {
+          "Team": "Sunrisers Hyderabad",
+          "Played": 16,
+          "Won": 8,
+          "Lost": 7,
+          "NR": 1,
+          "Points": 17
+        },
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 7,
+          "NR": 1,
+          "Points": 13
+        },
+        {
+          "Team": "Royal Challengers Bangalore",
+          "Played": 15,
+          "Won": 6,
+          "Lost": 8,
+          "NR": 1,
+          "Points": 13
+        },
+        {
+          "Team": "Chennai Super Kings",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Rajasthan Royals",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Punjab Kings",
+          "Played": 14,
+          "Won": 5,
+          "Lost": 7,
+          "NR": 2,
+          "Points": 12
+        }
+      ]
+    },
+    "2021": {
+      "champions": "Chennai Super Kings",
+      "runner_up": "Sunrisers Hyderabad",
+      "total_matches": 60,
+      "total_runs": 17727,
+      "total_wickets": 670,
+      "total_sixes": 687,
+      "total_fours": 1551,
+      "total_teams": 8,
+      "total_venues": 7,
+      "centuries": 4,
+      "half_centuries": 89,
+      "orange_cap": {
+        "player": "RD Gaikwad",
+        "val": 635,
+        "team": "Chennai Super Kings"
+      },
+      "purple_cap": {
+        "player": "HV Patel",
+        "val": 32,
+        "team": "Royal Challengers Bangalore"
+      },
+      "top_fours": {
+        "player": "RD Gaikwad",
+        "val": 64,
+        "team": "Chennai Super Kings"
+      },
+      "top_sixes": {
+        "player": "KL Rahul",
+        "val": 30,
+        "team": "Punjab Kings"
+      },
+      "points_table": [
+        {
+          "Team": "Chennai Super Kings",
+          "Played": 16,
+          "Won": 11,
+          "Lost": 5,
+          "NR": 0,
+          "Points": 22
+        },
+        {
+          "Team": "Delhi Capitals",
+          "Played": 16,
+          "Won": 9,
+          "Lost": 6,
+          "NR": 1,
+          "Points": 19
+        },
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 17,
+          "Won": 9,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 18
+        },
+        {
+          "Team": "Royal Challengers Bangalore",
+          "Played": 15,
+          "Won": 9,
+          "Lost": 6,
+          "NR": 0,
+          "Points": 18
+        },
+        {
+          "Team": "Mumbai Indians",
+          "Played": 14,
+          "Won": 7,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Punjab Kings",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Rajasthan Royals",
+          "Played": 14,
+          "Won": 5,
+          "Lost": 9,
+          "NR": 0,
+          "Points": 10
+        },
+        {
+          "Team": "Sunrisers Hyderabad",
+          "Played": 14,
+          "Won": 3,
+          "Lost": 10,
+          "NR": 1,
+          "Points": 7
+        }
+      ]
+    },
+    "2022": {
+      "champions": "Lucknow Super Giants",
+      "runner_up": "Chennai Super Kings",
+      "total_matches": 74,
+      "total_runs": 23052,
+      "total_wickets": 849,
+      "total_sixes": 1062,
+      "total_fours": 2020,
+      "total_teams": 10,
+      "total_venues": 6,
+      "centuries": 8,
+      "half_centuries": 110,
+      "orange_cap": {
+        "player": "JC Buttler",
+        "val": 863,
+        "team": "Rajasthan Royals"
+      },
+      "purple_cap": {
+        "player": "YS Chahal",
+        "val": 27,
+        "team": "Rajasthan Royals"
+      },
+      "top_fours": {
+        "player": "JC Buttler",
+        "val": 84,
+        "team": "Rajasthan Royals"
+      },
+      "top_sixes": {
+        "player": "JC Buttler",
+        "val": 45,
+        "team": "Rajasthan Royals"
+      },
+      "points_table": [
+        {
+          "Team": "Gujarat Titans",
+          "Played": 16,
+          "Won": 12,
+          "Lost": 4,
+          "NR": 0,
+          "Points": 24
+        },
+        {
+          "Team": "Rajasthan Royals",
+          "Played": 17,
+          "Won": 10,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 20
+        },
+        {
+          "Team": "Lucknow Super Giants",
+          "Played": 15,
+          "Won": 9,
+          "Lost": 6,
+          "NR": 0,
+          "Points": 18
+        },
+        {
+          "Team": "Royal Challengers Bangalore",
+          "Played": 16,
+          "Won": 9,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 18
+        },
+        {
+          "Team": "Punjab Kings",
+          "Played": 14,
+          "Won": 7,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Delhi Capitals",
+          "Played": 14,
+          "Won": 7,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Sunrisers Hyderabad",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Chennai Super Kings",
+          "Played": 14,
+          "Won": 4,
+          "Lost": 10,
+          "NR": 0,
+          "Points": 8
+        },
+        {
+          "Team": "Mumbai Indians",
+          "Played": 14,
+          "Won": 4,
+          "Lost": 10,
+          "NR": 0,
+          "Points": 8
+        }
+      ]
+    },
+    "2023": {
+      "champions": "Gujarat Titans",
+      "runner_up": "Chennai Super Kings",
+      "total_matches": 74,
+      "total_runs": 24428,
+      "total_wickets": 857,
+      "total_sixes": 1124,
+      "total_fours": 2175,
+      "total_teams": 10,
+      "total_venues": 12,
+      "centuries": 12,
+      "half_centuries": 141,
+      "orange_cap": {
+        "player": "Shubman Gill",
+        "val": 890,
+        "team": "Gujarat Titans"
+      },
+      "purple_cap": {
+        "player": "Mohammed Shami",
+        "val": 28,
+        "team": "Gujarat Titans"
+      },
+      "top_fours": {
+        "player": "Shubman Gill",
+        "val": 85,
+        "team": "Gujarat Titans"
+      },
+      "top_sixes": {
+        "player": "F du Plessis",
+        "val": 36,
+        "team": "Royal Challengers Bangalore"
+      },
+      "points_table": [
+        {
+          "Team": "Gujarat Titans",
+          "Played": 17,
+          "Won": 11,
+          "Lost": 6,
+          "NR": 0,
+          "Points": 22
+        },
+        {
+          "Team": "Chennai Super Kings",
+          "Played": 16,
+          "Won": 10,
+          "Lost": 5,
+          "NR": 1,
+          "Points": 21
+        },
+        {
+          "Team": "Mumbai Indians",
+          "Played": 16,
+          "Won": 9,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 18
+        },
+        {
+          "Team": "Lucknow Super Giants",
+          "Played": 15,
+          "Won": 8,
+          "Lost": 6,
+          "NR": 1,
+          "Points": 17
+        },
+        {
+          "Team": "Rajasthan Royals",
+          "Played": 14,
+          "Won": 7,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Royal Challengers Bangalore",
+          "Played": 14,
+          "Won": 7,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Punjab Kings",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Delhi Capitals",
+          "Played": 14,
+          "Won": 5,
+          "Lost": 9,
+          "NR": 0,
+          "Points": 10
+        },
+        {
+          "Team": "Sunrisers Hyderabad",
+          "Played": 14,
+          "Won": 4,
+          "Lost": 10,
+          "NR": 0,
+          "Points": 8
+        }
+      ]
+    },
+    "2024": {
+      "champions": "Gujarat Titans",
+      "runner_up": "Sunrisers Hyderabad",
+      "total_matches": 71,
+      "total_runs": 24657,
+      "total_wickets": 830,
+      "total_sixes": 1261,
+      "total_fours": 2175,
+      "total_teams": 10,
+      "total_venues": 13,
+      "centuries": 14,
+      "half_centuries": 128,
+      "orange_cap": {
+        "player": "V Kohli",
+        "val": 741,
+        "team": "Royal Challengers Bangalore"
+      },
+      "purple_cap": {
+        "player": "HV Patel",
+        "val": 24,
+        "team": "Punjab Kings"
+      },
+      "top_fours": {
+        "player": "TM Head",
+        "val": 64,
+        "team": "Sunrisers Hyderabad"
+      },
+      "top_sixes": {
+        "player": "Abhishek Sharma",
+        "val": 42,
+        "team": "Sunrisers Hyderabad"
+      },
+      "points_table": [
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 14,
+          "Won": 11,
+          "Lost": 3,
+          "NR": 0,
+          "Points": 22
+        },
+        {
+          "Team": "Rajasthan Royals",
+          "Played": 15,
+          "Won": 9,
+          "Lost": 6,
+          "NR": 0,
+          "Points": 18
+        },
+        {
+          "Team": "Sunrisers Hyderabad",
+          "Played": 16,
+          "Won": 9,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 18
+        },
+        {
+          "Team": "Chennai Super Kings",
+          "Played": 14,
+          "Won": 7,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Delhi Capitals",
+          "Played": 14,
+          "Won": 7,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Lucknow Super Giants",
+          "Played": 14,
+          "Won": 7,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Royal Challengers Bangalore",
+          "Played": 15,
+          "Won": 7,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Gujarat Titans",
+          "Played": 12,
+          "Won": 5,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 10
+        },
+        {
+          "Team": "Punjab Kings",
+          "Played": 14,
+          "Won": 5,
+          "Lost": 9,
+          "NR": 0,
+          "Points": 10
+        },
+        {
+          "Team": "Mumbai Indians",
+          "Played": 14,
+          "Won": 4,
+          "Lost": 10,
+          "NR": 0,
+          "Points": 8
+        }
+      ]
+    },
+    "2025": {
+      "champions": "Mumbai Indians",
+      "runner_up": "Kolkata Knight Riders",
+      "total_matches": 74,
+      "total_runs": 25189,
+      "total_wickets": 829,
+      "total_sixes": 1296,
+      "total_fours": 2251,
+      "total_teams": 10,
+      "total_venues": 14,
+      "centuries": 9,
+      "half_centuries": 143,
+      "orange_cap": {
+        "player": "B Sai Sudharsan",
+        "val": 759,
+        "team": "Gujarat Titans"
+      },
+      "purple_cap": {
+        "player": "M Prasidh Krishna",
+        "val": 25,
+        "team": "Gujarat Titans"
+      },
+      "top_fours": {
+        "player": "B Sai Sudharsan",
+        "val": 88,
+        "team": "Gujarat Titans"
+      },
+      "top_sixes": {
+        "player": "N Pooran",
+        "val": 40,
+        "team": "Lucknow Super Giants"
+      },
+      "points_table": [
+        {
+          "Team": "Royal Challengers Bangalore",
+          "Played": 16,
+          "Won": 11,
+          "Lost": 4,
+          "NR": 1,
+          "Points": 23
+        },
+        {
+          "Team": "Punjab Kings",
+          "Played": 17,
+          "Won": 10,
+          "Lost": 6,
+          "NR": 1,
+          "Points": 21
+        },
+        {
+          "Team": "Gujarat Titans",
+          "Played": 15,
+          "Won": 9,
+          "Lost": 6,
+          "NR": 0,
+          "Points": 18
+        },
+        {
+          "Team": "Mumbai Indians",
+          "Played": 16,
+          "Won": 9,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 18
+        },
+        {
+          "Team": "Delhi Capitals",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 6,
+          "NR": 2,
+          "Points": 14
+        },
+        {
+          "Team": "Sunrisers Hyderabad",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 7,
+          "NR": 1,
+          "Points": 13
+        },
+        {
+          "Team": "Lucknow Super Giants",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 14,
+          "Won": 5,
+          "Lost": 7,
+          "NR": 2,
+          "Points": 12
+        },
+        {
+          "Team": "Rajasthan Royals",
+          "Played": 14,
+          "Won": 4,
+          "Lost": 9,
+          "NR": 1,
+          "Points": 9
+        },
+        {
+          "Team": "Chennai Super Kings",
+          "Played": 14,
+          "Won": 4,
+          "Lost": 10,
+          "NR": 0,
+          "Points": 8
+        }
+      ]
+    },
+    "2026": {
+      "champions": "Royal Challengers Bangalore",
+      "runner_up": "Gujarat Titans",
+      "total_matches": 74,
+      "total_runs": 27033,
+      "total_wickets": 962,
+      "total_sixes": 600,
+      "total_fours": 3176,
+      "total_teams": 10,
+      "total_venues": 3,
+      "centuries": 48,
+      "half_centuries": 145,
+      "orange_cap": {
+        "player": "V Sooryavanshi",
+        "val": 5754,
+        "team": "Rajasthan Royals"
+      },
+      "purple_cap": {
+        "player": "K Rabada",
+        "val": 380,
+        "team": "Gujarat Titans"
+      },
+      "top_fours": {
+        "player": "V Sooryavanshi",
+        "val": 634,
+        "team": "Rajasthan Royals"
+      },
+      "top_sixes": {
+        "player": "V Sooryavanshi",
+        "val": 336,
+        "team": "Rajasthan Royals"
+      },
+      "points_table": [
+        {
+          "Team": "Gujarat Titans",
+          "Played": 15,
+          "Won": 12,
+          "Lost": 3,
+          "NR": 0,
+          "Points": 24
+        },
+        {
+          "Team": "Rajasthan Royals",
+          "Played": 16,
+          "Won": 11,
+          "Lost": 5,
+          "NR": 0,
+          "Points": 22
+        },
+        {
+          "Team": "Royal Challengers Bangalore",
+          "Played": 19,
+          "Won": 9,
+          "Lost": 10,
+          "NR": 0,
+          "Points": 18
+        },
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 16,
+          "Won": 8,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 16
+        },
+        {
+          "Team": "Delhi Capitals",
+          "Played": 14,
+          "Won": 7,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Sunrisers Hyderabad",
+          "Played": 15,
+          "Won": 7,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Lucknow Super Giants",
+          "Played": 14,
+          "Won": 7,
+          "Lost": 7,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Punjab Kings",
+          "Played": 12,
+          "Won": 6,
+          "Lost": 6,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Mumbai Indians",
+          "Played": 15,
+          "Won": 6,
+          "Lost": 9,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Chennai Super Kings",
+          "Played": 12,
+          "Won": 1,
+          "Lost": 11,
+          "NR": 0,
+          "Points": 2
+        }
+      ]
+    },
+    "All": {
+      "champions": "Mumbai Indians",
+      "runner_up": "Delhi Capitals",
+      "total_matches": 1243,
+      "total_runs": 382286,
+      "total_wickets": 13606,
+      "total_sixes": 14947,
+      "total_fours": 35277,
+      "total_teams": 14,
+      "total_venues": 60,
+      "centuries": 158,
+      "half_centuries": 1983,
+      "orange_cap": {
+        "player": "V Kohli",
+        "val": 12246,
+        "team": "Royal Challengers Bangalore"
+      },
+      "purple_cap": {
+        "player": "K Rabada",
+        "val": 502,
+        "team": "Punjab Kings"
+      },
+      "top_fours": {
+        "player": "V Kohli",
+        "val": 1070,
+        "team": "Royal Challengers Bangalore"
+      },
+      "top_sixes": {
+        "player": "V Kohli",
+        "val": 556,
+        "team": "Royal Challengers Bangalore"
+      },
+      "points_table": [
+        {
+          "Team": "Mumbai Indians",
+          "Played": 292,
+          "Won": 157,
+          "Lost": 131,
+          "NR": 4,
+          "Points": 318
+        },
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 281,
+          "Won": 143,
+          "Lost": 132,
+          "NR": 6,
+          "Points": 292
+        },
+        {
+          "Team": "Royal Challengers Bangalore",
+          "Played": 290,
+          "Won": 141,
+          "Lost": 142,
+          "NR": 7,
+          "Points": 289
+        },
+        {
+          "Team": "Chennai Super Kings",
+          "Played": 264,
+          "Won": 143,
+          "Lost": 119,
+          "NR": 2,
+          "Points": 288
+        },
+        {
+          "Team": "Sunrisers Hyderabad",
+          "Played": 286,
+          "Won": 129,
+          "Lost": 152,
+          "NR": 5,
+          "Points": 263
+        },
+        {
+          "Team": "Delhi Capitals",
+          "Played": 280,
+          "Won": 125,
+          "Lost": 147,
+          "NR": 8,
+          "Points": 258
+        },
+        {
+          "Team": "Rajasthan Royals",
+          "Played": 251,
+          "Won": 125,
+          "Lost": 120,
+          "NR": 6,
+          "Points": 256
+        },
+        {
+          "Team": "Punjab Kings",
+          "Played": 275,
+          "Won": 125,
+          "Lost": 145,
+          "NR": 5,
+          "Points": 255
+        },
+        {
+          "Team": "Gujarat Titans",
+          "Played": 75,
+          "Won": 49,
+          "Lost": 26,
+          "NR": 0,
+          "Points": 98
+        },
+        {
+          "Team": "Lucknow Super Giants",
+          "Played": 72,
+          "Won": 37,
+          "Lost": 34,
+          "NR": 1,
+          "Points": 75
+        },
+        {
+          "Team": "Rising Pune Supergiant",
+          "Played": 30,
+          "Won": 15,
+          "Lost": 15,
+          "NR": 0,
+          "Points": 30
+        },
+        {
+          "Team": "Gujarat Lions",
+          "Played": 30,
+          "Won": 13,
+          "Lost": 16,
+          "NR": 1,
+          "Points": 27
+        },
+        {
+          "Team": "Pune Warriors",
+          "Played": 46,
+          "Won": 12,
+          "Lost": 33,
+          "NR": 1,
+          "Points": 25
+        },
+        {
+          "Team": "Kochi Tuskers Kerala",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 12
+        }
+      ]
+    }
+  },
+  "seasons_list": [
+    "2008",
+    "2009",
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020/21",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "team_logos": {
+    "Royal Challengers Bangalore": "https://documents.iplt20.com/ipl/RCB/Logos/Logooutline/RCBoutline.png",
+    "Sunrisers Hyderabad": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/DEC.png?v=2",
+    "Mumbai Indians": "https://documents.iplt20.com/ipl/MI/Logos/Logooutline/MIoutline.png",
+    "Rising Pune Supergiant": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/RPS.png?v=2",
+    "Gujarat Lions": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/GL.png?v=2",
+    "Kolkata Knight Riders": "https://documents.iplt20.com/ipl/KKR/Logos/Logooutline/KKRoutline.png",
+    "Chennai Super Kings": "https://documents.iplt20.com/ipl/CSK/logos/Logooutline/CSKoutline.png",
+    "Rajasthan Royals": "https://1000logos.net/wp-content/uploads/2024/03/Rajasthan-Royals-Logo-768x432.png",
+    "Delhi Capitals": "https://documents.iplt20.com/ipl/DC/Logos/LogoOutline/DCoutline.png",
+    "Punjab Kings": "https://documents.iplt20.com/ipl/PBKS/Logos/Logooutline/PBKSoutline.png",
+    "Lucknow Super Giants": "https://documents.iplt20.com/ipl/LSG/Logos/Logooutline/LSGoutline.png",
+    "Gujarat Titans": "https://documents.iplt20.com/ipl/GT/Logos/Logooutline/GToutline.png",
+    "Kochi Tuskers Kerala": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/KTK.png?v=2",
+    "Pune Warriors": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/teamlogos/PWI.png?v=2"
+  },
+  "player_photos": {
+    "V Kohli": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Virat%20Kohli.png",
+    "RG Sharma": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Rohit%20Sharma.png",
+    "MS Dhoni": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MS%20Dhoni.png",
+    "SK Raina": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/33335.png",
+    "AB de Villiers": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/44936.png",
+    "KD Karthik": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/30045.png",
+    "SV Samson": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Sanju%20Samson.png",
+    "AT Rayudu": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/33141.png",
+    "G Gambhir": "https://www.cricbuzz.com/a/img/v1/150x150/i1/c226/gautam-gambhir.jpg",
+    "KA Pollard": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/230559.png",
+    "SR Watson": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/8180.png",
+    "YK Pathan": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/32498.png",
+    "HH Pandya": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/625371.png",
+    "Yuvraj Singh": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/36084.png",
+    "RR Pant": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Rishabh%20Pant.png",
+    "SS Iyer": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/642519.png",
+    "Q de Kock": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/379143.png",
+    "DA Miller": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/321777.png",
+    "JC Buttler": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Jos%20Buttler.png",
+    "S Dhawan": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Shikhar%20Dhawan.png",
+    "DA Warner": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/David%20Warner.png",
+    "CH Gayle": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Chris%20Gayle.png",
+    "RV Uthappa": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Robin%20Uthappa.png",
+    "F du Plessis": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Faf%20Du%20Plessis.png",
+    "KL Rahul": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KL%20Rahul.png",
+    "AM Rahane": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Ajinkya%20Rahane.png",
+    "SA Yadav": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Suryakumar%20Yadav.png",
+    "MK Pandey": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/290636.png",
+    "WP Saha": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/279087.png",
+    "BB McCullum": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/37737.png",
+    "PA Patel": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/31825.png",
+    "V Sehwag": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/35263.png",
+    "MA Agarwal": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/398438.png",
+    "SPD Smith": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/292645.png",
+    "M Vijay": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/237829.png",
+    "DR Smith": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/53118.png",
+    "JH Kallis": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/45789.png",
+    "RA Tripathi": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/446763.png",
+    "YBK Jaiswal": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Yashasvi%20Jaiswal.png",
+    "V Sooryavanshi": "assets/vaibhav_sooryavanshi.png",
+    "SL Malinga": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Lasith%20Malinga.png",
+    "A Mishra": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Amit%20Mishra.png",
+    "PP Chawla": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Piyush%20Chawla.png",
+    "DJ Bravo": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Dwayne%20Bravo.png",
+    "B Kumar": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Bhuvneshwar%20Kumar.png",
+    "SP Narine": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Sunil%20Narine.png",
+    "R Ashwin": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/26421.png",
+    "Harbhajan Singh": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Harbhajan%20Singh.png",
+    "JJ Bumrah": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Jasprit%20Bumrah.png",
+    "RA Jadeja": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Ravindra%20Jadeja.png",
+    "UT Yadav": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Umesh%20Yadav.png",
+    "Mohammed Shami": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Mohammed%20Shami.png",
+    "Rashid Khan": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/793463.png",
+    "TA Boult": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/277912.png",
+    "K Rabada": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Kagiso%20Rabada.png",
+    "YS Chahal": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Yuzvendra%20Chahal.png",
+    "HV Patel": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Harshal%20Patel.png",
+    "Sandeep Sharma": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/438362.png",
+    "AR Patel": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Axar%20Patel.png",
+    "JD Unadkat": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Jaydev%20Unadkat.png",
+    "A Nehra": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Ashish%20Nehra.png",
+    "R Vinay Kumar": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Vinay%20Kumar.png",
+    "SN Thakur": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Shardul%20Thakur.png",
+    "CV Varun": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Varun%20Chakravarthy.png",
+    "Z Khan": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Zaheer%20Khan.png",
+    "CH Morris": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Chris%20Morris.png",
+    "DW Steyn": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Dale%20Steyn.png",
+    "P Kumar": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Praveen%20Kumar.png",
+    "KH Pandya": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Krunal%20Pandya.png",
+    "DL Chahar": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Deepak%20Chahar.png",
+    "KK Ahmed": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Khaleel%20Ahmed.png",
+    "JA Morkel": "https://www.cricbuzz.com/a/img/v1/150x150/i1/c182/albie-morkel.jpg",
+    "DS Kulkarni": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Dhawal%20Kulkarni.png",
+    "IK Pathan": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Irfan%20Pathan.png",
+    "KV Sharma": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Karn%20Sharma.png",
+    "Imran Tahir": "https://www.cricbuzz.com/a/img/v1/150x150/i1/c1726/imran-tahir.jpg",
+    "PJ Cummins": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Pat%20Cummins.png",
+    "MM Patel": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Munaf%20Patel.png",
+    "L Balaji": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/26989.png",
+    "M Morkel": "https://www.cricbuzz.com/a/img/v1/150x150/i1/c1344/morne-morkel.jpg",
+    "R Tewatia": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/423838.png",
+    "KS Williamson": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Kane%20Williamson.png",
+    "SE Marsh": "https://cricclubs.com/documentsRep/profilePics/6c5d3a99-b18a-47b6-ba2e-5dae071b3452.png",
+    "Sachin Baby": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/432783.png",
+    "J Yadav": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/447587.png",
+    "K Khejroliya": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1083033.png",
+    "Avesh Khan": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/694211.png",
+    "TM Head": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Travis%20Head.png",
+    "Swapnil Singh": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/232292.png",
+    "S Gopal": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/344580.png",
+    "Vishnu Vinod": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/732293.png",
+    "Ishan Kishan": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Ishan%20Kishan.png",
+    "AJ Tye": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Andrew%20Tye.png",
+    "R Shepherd": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/677077.png",
+    "Rahmanullah Gurbaz": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/974087.png",
+    "Mukesh Kumar": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/926851.png",
+    "Akash Deep": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1176959.png",
+    "RD Gaikwad": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Ruturaj%20Gaikwad.png",
+    "A Manohar": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/778963.png",
+    "Fazalhaq Farooqi": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/974175.png",
+    "P Simran Singh": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1161024.png",
+    "M Jansen": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/696401.png",
+    "Anuj Rawat": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1123073.png",
+    "Mukesh Choudhary": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1125688.png",
+    "M Pathirana": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1194795.png",
+    "S Dube": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/714451.png",
+    "Ravi Bishnoi": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1175441.png",
+    "C Sakariya": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1131754.png",
+    "Abhishek Sharma": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Abhishek%20Sharma.png",
+    "H Klaasen": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/436757.png",
+    "SH Johnson": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1123718.png",
+    "Sameer Rizvi": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1175489.png",
+    "A Raghuvanshi": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1292495.png",
+    "AA Kulkarni": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1403153.png",
+    "Prince Yadav": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1350768.png",
+    "MJ Suthar": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1175426.png",
+    "A Kamboj": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1175428.png",
+    "KT Maphaka": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1294342.png",
+    "R Ravindra": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/959767.png",
+    "RP Singh": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/389100/389167.5.png",
+    "Abishek Porel": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1277545.png",
+    "Suyash Sharma": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1350792.png",
+    "N Wadhera": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1151273.png",
+    "Mohit Rathee": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1349361.png",
+    "ST Jayasuriya": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/319800/319886.png",
+    "SR Tendulkar": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316400/316486.6.png",
+    "MEK Hussey": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319700/319708.1.png",
+    "M Prasidh Krishna": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Prasidh%20Krishna.png",
+    "A Zampa": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/379504.png",
+    "AD Russell": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Andre%20Russell.png",
+    "V Shankar": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/477021.png",
+    "Harpreet Brar": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1168641.png",
+    "R Parag": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1079434.png",
+    "N Thushara": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/955235.png",
+    "Naman Dhir": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1287032.png",
+    "Aniket Verma": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1409976.png",
+    "Priyansh Arya": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1175456.png",
+    "Suryansh Shedge": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1339698.png",
+    "G Coetzee": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/596010.png",
+    "R Minz": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1350762.png",
+    "S Joseph": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1356971.png",
+    "D Ferreira": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/698315.png",
+    "V Puthur": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1460388.png",
+    "RD Rickelton": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/605661.png",
+    "V Nigam": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1449074.png",
+    "R Powell": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/820351.png",
+    "Atharva Taide": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1125958.png",
+    "Noor Ahmad": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1182529.png",
+    "Simarjeet Singh": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1159722.png",
+    "PWA Mulder": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/698189.png",
+    "Zeeshan Ansari": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/942371.png",
+    "J Overton": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/510530.png",
+    "Ashwani Kumar": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1209126.png",
+    "PHKD Mendis": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/784373.png",
+    "Himmat Singh": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/805235.png",
+    "SK Rasheed": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1292497.png",
+    "C Bosch": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/594322.png",
+    "Karim Janat": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/793467.png",
+    "M Tiwari": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1460385.png",
+    "Musheer Khan": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1316430.png",
+    "Arshdeep Singh": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1125976.png",
+    "Azmatullah Omarzai": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/819429.png",
+    "Kumar Kushagra": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1207295.png",
+    "Ashutosh Sharma": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1131978.png",
+    "MP Yadav": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1292563.png",
+    "DS Rathi": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1460529.png",
+    "V Suryavanshi": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1408688.png",
+    "NT Ellis": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/826915.png",
+    "T Stubbs": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/595978.png",
+    "Ramandeep Singh": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1079470.png",
+    "ML Hayden": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/319700/319706.png",
+    "B Sai Sudharsan": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Sai%20Sudharsan.png",
+    "D Padikkal": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1119026.png",
+    "Abdul Samad": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1175485.png",
+    "Yash Dayal": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1159720.png",
+    "Kuldeep Yadav": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/559235.png",
+    "PP Ojha": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/322600/322694.1.png",
+    "N Rana": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/604527.png",
+    "N Pooran": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Nicholas%20Pooran.png",
+    "A Badoni": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1151270.png",
+    "Mohammed Siraj": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/940973.png",
+    "GJ Maxwell": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Glenn%20Maxwell.png",
+    "KK Nair": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/398439.png",
+    "AC Gilchrist": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/319600/319684.png",
+    "Washington Sundar": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/719715.png",
+    "Shashank Singh": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/377534.png",
+    "Shubman Gill": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Shubman%20Gill.png",
+    "M Markande": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1081442.png",
+    "MM Sharma": "https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Mohit%20Sharma.png",
+    "Sohail Tanvir": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/320400/320472.1.png",
+    "I Sharma": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/236779.png",
+    "Akash Madhwal": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/sid/images/players/1206039.png"
+  }
+}

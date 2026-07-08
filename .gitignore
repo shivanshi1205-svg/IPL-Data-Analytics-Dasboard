@@ -1,0 +1,12 @@
+# System generated task files and logs
+.system_generated/
+*.log
+.agents/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
