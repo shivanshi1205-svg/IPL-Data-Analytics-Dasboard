@@ -2595,7 +2595,16 @@
           "NR": 0,
           "Points": 4
         }
-      ]
+      ],
+      "toss_decision": {
+        "field": 32,
+        "bat": 26
+      },
+      "win_type": {
+        "wickets": 34,
+        "runs": 24,
+        "other": 0
+      }
     },
     "2009": {
       "champions": "Chennai Super Kings",
@@ -2639,7 +2648,7 @@
           "Points": 20
         },
         {
-          "Team": "Sunrisers Hyderabad",
+          "Team": "Royal Challengers Bangalore",
           "Played": 16,
           "Won": 9,
           "Lost": 7,
@@ -2647,7 +2656,7 @@
           "Points": 18
         },
         {
-          "Team": "Royal Challengers Bangalore",
+          "Team": "Sunrisers Hyderabad",
           "Played": 16,
           "Won": 9,
           "Lost": 7,
@@ -2694,7 +2703,16 @@
           "NR": 1,
           "Points": 7
         }
-      ]
+      ],
+      "toss_decision": {
+        "field": 22,
+        "bat": 35
+      },
+      "win_type": {
+        "wickets": 29,
+        "runs": 27,
+        "other": 1
+      }
     },
     "2010": {
       "champions": "Chennai Super Kings",
@@ -2746,14 +2764,6 @@
           "Points": 19
         },
         {
-          "Team": "Sunrisers Hyderabad",
-          "Played": 16,
-          "Won": 8,
-          "Lost": 8,
-          "NR": 0,
-          "Points": 16
-        },
-        {
           "Team": "Royal Challengers Bangalore",
           "Played": 16,
           "Won": 8,
@@ -2762,7 +2772,15 @@
           "Points": 16
         },
         {
-          "Team": "Kolkata Knight Riders",
+          "Team": "Sunrisers Hyderabad",
+          "Played": 16,
+          "Won": 8,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 16
+        },
+        {
+          "Team": "Delhi Capitals",
           "Played": 14,
           "Won": 7,
           "Lost": 7,
@@ -2770,7 +2788,7 @@
           "Points": 14
         },
         {
-          "Team": "Delhi Capitals",
+          "Team": "Kolkata Knight Riders",
           "Played": 14,
           "Won": 7,
           "Lost": 7,
@@ -2793,7 +2811,16 @@
           "NR": 1,
           "Points": 7
         }
-      ]
+      ],
+      "toss_decision": {
+        "field": 21,
+        "bat": 39
+      },
+      "win_type": {
+        "wickets": 28,
+        "runs": 31,
+        "other": 1
+      }
     },
     "2011": {
       "champions": "Kolkata Knight Riders",
@@ -2837,7 +2864,7 @@
           "Points": 22
         },
         {
-          "Team": "Mumbai Indians",
+          "Team": "Royal Challengers Bangalore",
           "Played": 16,
           "Won": 10,
           "Lost": 6,
@@ -2845,7 +2872,7 @@
           "Points": 20
         },
         {
-          "Team": "Royal Challengers Bangalore",
+          "Team": "Mumbai Indians",
           "Played": 16,
           "Won": 10,
           "Lost": 6,
@@ -2869,10 +2896,10 @@
           "Points": 14
         },
         {
-          "Team": "Rajasthan Royals",
-          "Played": 13,
+          "Team": "Kochi Tuskers Kerala",
+          "Played": 14,
           "Won": 6,
-          "Lost": 7,
+          "Lost": 8,
           "NR": 0,
           "Points": 12
         },
@@ -2885,10 +2912,10 @@
           "Points": 12
         },
         {
-          "Team": "Kochi Tuskers Kerala",
-          "Played": 14,
+          "Team": "Rajasthan Royals",
+          "Played": 13,
           "Won": 6,
-          "Lost": 8,
+          "Lost": 7,
           "NR": 0,
           "Points": 12
         },
@@ -2908,7 +2935,16 @@
           "NR": 1,
           "Points": 9
         }
-      ]
+      ],
+      "toss_decision": {
+        "field": 48,
+        "bat": 25
+      },
+      "win_type": {
+        "wickets": 39,
+        "runs": 33,
+        "other": 1
+      }
     },
     "2012": {
       "champions": "Kolkata Knight Riders",
@@ -2960,14 +2996,6 @@
           "Points": 22
         },
         {
-          "Team": "Chennai Super Kings",
-          "Played": 18,
-          "Won": 10,
-          "Lost": 8,
-          "NR": 0,
-          "Points": 20
-        },
-        {
           "Team": "Mumbai Indians",
           "Played": 17,
           "Won": 10,
@@ -2976,18 +3004,26 @@
           "Points": 20
         },
         {
-          "Team": "Punjab Kings",
-          "Played": 16,
-          "Won": 8,
+          "Team": "Chennai Super Kings",
+          "Played": 18,
+          "Won": 10,
           "Lost": 8,
           "NR": 0,
-          "Points": 16
+          "Points": 20
         },
         {
           "Team": "Royal Challengers Bangalore",
           "Played": 15,
           "Won": 8,
           "Lost": 7,
+          "NR": 0,
+          "Points": 16
+        },
+        {
+          "Team": "Punjab Kings",
+          "Played": 16,
+          "Won": 8,
+          "Lost": 8,
           "NR": 0,
           "Points": 16
         },
@@ -3015,7 +3051,16 @@
           "NR": 0,
           "Points": 8
         }
-      ]
+      ],
+      "toss_decision": {
+        "field": 37,
+        "bat": 37
+      },
+      "win_type": {
+        "wickets": 40,
+        "runs": 34,
+        "other": 0
+      }
     },
     "2013": {
       "champions": "Chennai Super Kings",
@@ -3122,7 +3167,16 @@
           "NR": 1,
           "Points": 7
         }
-      ]
+      ],
+      "toss_decision": {
+        "field": 31,
+        "bat": 45
+      },
+      "win_type": {
+        "wickets": 37,
+        "runs": 37,
+        "other": 2
+      }
     },
     "2014": {
       "champions": "Punjab Kings",
@@ -3221,7 +3275,16 @@
           "NR": 0,
           "Points": 4
         }
-      ]
+      ],
+      "toss_decision": {
+        "field": 41,
+        "bat": 19
+      },
+      "win_type": {
+        "wickets": 37,
+        "runs": 22,
+        "other": 1
+      }
     },
     "2015": {
       "champions": "Kolkata Knight Riders",
@@ -3257,18 +3320,18 @@
       },
       "points_table": [
         {
-          "Team": "Chennai Super Kings",
-          "Played": 17,
-          "Won": 10,
-          "Lost": 7,
-          "NR": 0,
-          "Points": 20
-        },
-        {
           "Team": "Mumbai Indians",
           "Played": 16,
           "Won": 10,
           "Lost": 6,
+          "NR": 0,
+          "Points": 20
+        },
+        {
+          "Team": "Chennai Super Kings",
+          "Played": 17,
+          "Won": 10,
+          "Lost": 7,
           "NR": 0,
           "Points": 20
         },
@@ -3289,18 +3352,18 @@
           "Points": 16
         },
         {
-          "Team": "Kolkata Knight Riders",
-          "Played": 13,
-          "Won": 7,
-          "Lost": 6,
-          "NR": 0,
-          "Points": 14
-        },
-        {
           "Team": "Sunrisers Hyderabad",
           "Played": 14,
           "Won": 7,
           "Lost": 7,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 13,
+          "Won": 7,
+          "Lost": 6,
           "NR": 0,
           "Points": 14
         },
@@ -3320,7 +3383,16 @@
           "NR": 1,
           "Points": 5
         }
-      ]
+      ],
+      "toss_decision": {
+        "field": 34,
+        "bat": 25
+      },
+      "win_type": {
+        "wickets": 24,
+        "runs": 32,
+        "other": 3
+      }
     },
     "2016": {
       "champions": "Sunrisers Hyderabad",
@@ -3364,7 +3436,7 @@
           "Points": 22
         },
         {
-          "Team": "Gujarat Lions",
+          "Team": "Royal Challengers Bangalore",
           "Played": 16,
           "Won": 9,
           "Lost": 7,
@@ -3372,7 +3444,7 @@
           "Points": 18
         },
         {
-          "Team": "Royal Challengers Bangalore",
+          "Team": "Gujarat Lions",
           "Played": 16,
           "Won": 9,
           "Lost": 7,
@@ -3419,7 +3491,16 @@
           "NR": 0,
           "Points": 8
         }
-      ]
+      ],
+      "toss_decision": {
+        "field": 49,
+        "bat": 11
+      },
+      "win_type": {
+        "wickets": 39,
+        "runs": 21,
+        "other": 0
+      }
     },
     "2017": {
       "champions": "Sunrisers Hyderabad",
@@ -3518,7 +3599,16 @@
           "NR": 0,
           "Points": 6
         }
-      ]
+      ],
+      "toss_decision": {
+        "field": 48,
+        "bat": 11
+      },
+      "win_type": {
+        "wickets": 32,
+        "runs": 26,
+        "other": 1
+      }
     },
     "2018": {
       "champions": "Chennai Super Kings",
@@ -3586,7 +3676,7 @@
           "Points": 14
         },
         {
-          "Team": "Punjab Kings",
+          "Team": "Royal Challengers Bangalore",
           "Played": 14,
           "Won": 6,
           "Lost": 8,
@@ -3602,7 +3692,7 @@
           "Points": 12
         },
         {
-          "Team": "Royal Challengers Bangalore",
+          "Team": "Punjab Kings",
           "Played": 14,
           "Won": 6,
           "Lost": 8,
@@ -3617,7 +3707,16 @@
           "NR": 0,
           "Points": 10
         }
-      ]
+      ],
+      "toss_decision": {
+        "field": 50,
+        "bat": 10
+      },
+      "win_type": {
+        "wickets": 32,
+        "runs": 28,
+        "other": 0
+      }
     },
     "2019": {
       "champions": "Sunrisers Hyderabad",
@@ -3677,18 +3776,18 @@
           "Points": 19
         },
         {
-          "Team": "Kolkata Knight Riders",
-          "Played": 14,
-          "Won": 6,
-          "Lost": 7,
-          "NR": 1,
-          "Points": 13
-        },
-        {
           "Team": "Sunrisers Hyderabad",
           "Played": 15,
           "Won": 6,
           "Lost": 8,
+          "NR": 1,
+          "Points": 13
+        },
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 7,
           "NR": 1,
           "Points": 13
         },
@@ -3701,7 +3800,7 @@
           "Points": 12
         },
         {
-          "Team": "Rajasthan Royals",
+          "Team": "Royal Challengers Bangalore",
           "Played": 14,
           "Won": 5,
           "Lost": 8,
@@ -3709,14 +3808,23 @@
           "Points": 11
         },
         {
-          "Team": "Royal Challengers Bangalore",
+          "Team": "Rajasthan Royals",
           "Played": 14,
           "Won": 5,
           "Lost": 8,
           "NR": 1,
           "Points": 11
         }
-      ]
+      ],
+      "toss_decision": {
+        "field": 50,
+        "bat": 10
+      },
+      "win_type": {
+        "wickets": 35,
+        "runs": 22,
+        "other": 3
+      }
     },
     "2020/21": {
       "champions": "Sunrisers Hyderabad",
@@ -3760,14 +3868,6 @@
           "Points": 24
         },
         {
-          "Team": "Delhi Capitals",
-          "Played": 17,
-          "Won": 8,
-          "Lost": 8,
-          "NR": 1,
-          "Points": 17
-        },
-        {
           "Team": "Sunrisers Hyderabad",
           "Played": 16,
           "Won": 8,
@@ -3776,18 +3876,26 @@
           "Points": 17
         },
         {
-          "Team": "Kolkata Knight Riders",
-          "Played": 14,
-          "Won": 6,
-          "Lost": 7,
+          "Team": "Delhi Capitals",
+          "Played": 17,
+          "Won": 8,
+          "Lost": 8,
           "NR": 1,
-          "Points": 13
+          "Points": 17
         },
         {
           "Team": "Royal Challengers Bangalore",
           "Played": 15,
           "Won": 6,
           "Lost": 8,
+          "NR": 1,
+          "Points": 13
+        },
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 14,
+          "Won": 6,
+          "Lost": 7,
           "NR": 1,
           "Points": 13
         },
@@ -3815,7 +3923,16 @@
           "NR": 2,
           "Points": 12
         }
-      ]
+      ],
+      "toss_decision": {
+        "field": 33,
+        "bat": 27
+      },
+      "win_type": {
+        "wickets": 29,
+        "runs": 27,
+        "other": 4
+      }
     },
     "2021": {
       "champions": "Chennai Super Kings",
@@ -3867,18 +3984,18 @@
           "Points": 19
         },
         {
-          "Team": "Kolkata Knight Riders",
-          "Played": 17,
-          "Won": 9,
-          "Lost": 8,
-          "NR": 0,
-          "Points": 18
-        },
-        {
           "Team": "Royal Challengers Bangalore",
           "Played": 15,
           "Won": 9,
           "Lost": 6,
+          "NR": 0,
+          "Points": 18
+        },
+        {
+          "Team": "Kolkata Knight Riders",
+          "Played": 17,
+          "Won": 9,
+          "Lost": 8,
           "NR": 0,
           "Points": 18
         },
@@ -3914,7 +4031,16 @@
           "NR": 1,
           "Points": 7
         }
-      ]
+      ],
+      "toss_decision": {
+        "field": 44,
+        "bat": 16
+      },
+      "win_type": {
+        "wickets": 37,
+        "runs": 22,
+        "other": 1
+      }
     },
     "2022": {
       "champions": "Lucknow Super Giants",
@@ -3966,14 +4092,6 @@
           "Points": 20
         },
         {
-          "Team": "Lucknow Super Giants",
-          "Played": 15,
-          "Won": 9,
-          "Lost": 6,
-          "NR": 0,
-          "Points": 18
-        },
-        {
           "Team": "Royal Challengers Bangalore",
           "Played": 16,
           "Won": 9,
@@ -3982,12 +4100,12 @@
           "Points": 18
         },
         {
-          "Team": "Punjab Kings",
-          "Played": 14,
-          "Won": 7,
-          "Lost": 7,
+          "Team": "Lucknow Super Giants",
+          "Played": 15,
+          "Won": 9,
+          "Lost": 6,
           "NR": 0,
-          "Points": 14
+          "Points": 18
         },
         {
           "Team": "Delhi Capitals",
@@ -3998,12 +4116,12 @@
           "Points": 14
         },
         {
-          "Team": "Kolkata Knight Riders",
+          "Team": "Punjab Kings",
           "Played": 14,
-          "Won": 6,
-          "Lost": 8,
+          "Won": 7,
+          "Lost": 7,
           "NR": 0,
-          "Points": 12
+          "Points": 14
         },
         {
           "Team": "Sunrisers Hyderabad",
@@ -4014,12 +4132,12 @@
           "Points": 12
         },
         {
-          "Team": "Chennai Super Kings",
+          "Team": "Kolkata Knight Riders",
           "Played": 14,
-          "Won": 4,
-          "Lost": 10,
+          "Won": 6,
+          "Lost": 8,
           "NR": 0,
-          "Points": 8
+          "Points": 12
         },
         {
           "Team": "Mumbai Indians",
@@ -4028,8 +4146,25 @@
           "Lost": 10,
           "NR": 0,
           "Points": 8
+        },
+        {
+          "Team": "Chennai Super Kings",
+          "Played": 14,
+          "Won": 4,
+          "Lost": 10,
+          "NR": 0,
+          "Points": 8
         }
-      ]
+      ],
+      "toss_decision": {
+        "field": 59,
+        "bat": 15
+      },
+      "win_type": {
+        "wickets": 37,
+        "runs": 37,
+        "other": 0
+      }
     },
     "2023": {
       "champions": "Gujarat Titans",
@@ -4097,7 +4232,7 @@
           "Points": 17
         },
         {
-          "Team": "Rajasthan Royals",
+          "Team": "Royal Challengers Bangalore",
           "Played": 14,
           "Won": 7,
           "Lost": 7,
@@ -4105,7 +4240,7 @@
           "Points": 14
         },
         {
-          "Team": "Royal Challengers Bangalore",
+          "Team": "Rajasthan Royals",
           "Played": 14,
           "Won": 7,
           "Lost": 7,
@@ -4144,7 +4279,16 @@
           "NR": 0,
           "Points": 8
         }
-      ]
+      ],
+      "toss_decision": {
+        "field": 53,
+        "bat": 21
+      },
+      "win_type": {
+        "wickets": 33,
+        "runs": 40,
+        "other": 1
+      }
     },
     "2024": {
       "champions": "Gujarat Titans",
@@ -4188,14 +4332,6 @@
           "Points": 22
         },
         {
-          "Team": "Rajasthan Royals",
-          "Played": 15,
-          "Won": 9,
-          "Lost": 6,
-          "NR": 0,
-          "Points": 18
-        },
-        {
           "Team": "Sunrisers Hyderabad",
           "Played": 16,
           "Won": 9,
@@ -4204,7 +4340,23 @@
           "Points": 18
         },
         {
-          "Team": "Chennai Super Kings",
+          "Team": "Rajasthan Royals",
+          "Played": 15,
+          "Won": 9,
+          "Lost": 6,
+          "NR": 0,
+          "Points": 18
+        },
+        {
+          "Team": "Royal Challengers Bangalore",
+          "Played": 15,
+          "Won": 7,
+          "Lost": 8,
+          "NR": 0,
+          "Points": 14
+        },
+        {
+          "Team": "Lucknow Super Giants",
           "Played": 14,
           "Won": 7,
           "Lost": 7,
@@ -4220,18 +4372,10 @@
           "Points": 14
         },
         {
-          "Team": "Lucknow Super Giants",
+          "Team": "Chennai Super Kings",
           "Played": 14,
           "Won": 7,
           "Lost": 7,
-          "NR": 0,
-          "Points": 14
-        },
-        {
-          "Team": "Royal Challengers Bangalore",
-          "Played": 15,
-          "Won": 7,
-          "Lost": 8,
           "NR": 0,
           "Points": 14
         },
@@ -4259,7 +4403,16 @@
           "NR": 0,
           "Points": 8
         }
-      ]
+      ],
+      "toss_decision": {
+        "field": 52,
+        "bat": 19
+      },
+      "win_type": {
+        "wickets": 36,
+        "runs": 35,
+        "other": 0
+      }
     },
     "2025": {
       "champions": "Mumbai Indians",
@@ -4374,7 +4527,16 @@
           "NR": 0,
           "Points": 8
         }
-      ]
+      ],
+      "toss_decision": {
+        "field": 60,
+        "bat": 13
+      },
+      "win_type": {
+        "wickets": 37,
+        "runs": 33,
+        "other": 4
+      }
     },
     "2026": {
       "champions": "Royal Challengers Bangalore",
@@ -4442,7 +4604,7 @@
           "Points": 16
         },
         {
-          "Team": "Delhi Capitals",
+          "Team": "Lucknow Super Giants",
           "Played": 14,
           "Won": 7,
           "Lost": 7,
@@ -4458,7 +4620,7 @@
           "Points": 14
         },
         {
-          "Team": "Lucknow Super Giants",
+          "Team": "Delhi Capitals",
           "Played": 14,
           "Won": 7,
           "Lost": 7,
@@ -4466,18 +4628,18 @@
           "Points": 14
         },
         {
-          "Team": "Punjab Kings",
-          "Played": 12,
-          "Won": 6,
-          "Lost": 6,
-          "NR": 0,
-          "Points": 12
-        },
-        {
           "Team": "Mumbai Indians",
           "Played": 15,
           "Won": 6,
           "Lost": 9,
+          "NR": 0,
+          "Points": 12
+        },
+        {
+          "Team": "Punjab Kings",
+          "Played": 12,
+          "Won": 6,
+          "Lost": 6,
           "NR": 0,
           "Points": 12
         },
@@ -4489,7 +4651,16 @@
           "NR": 0,
           "Points": 2
         }
-      ]
+      ],
+      "toss_decision": {
+        "field": 73,
+        "bat": 1
+      },
+      "win_type": {
+        "wickets": 38,
+        "runs": 36,
+        "other": 0
+      }
     },
     "All": {
       "champions": "Mumbai Indians",
@@ -4636,7 +4807,16 @@
           "NR": 0,
           "Points": 12
         }
-      ]
+      ],
+      "toss_decision": {
+        "field": 837,
+        "bat": 405
+      },
+      "win_type": {
+        "wickets": 653,
+        "runs": 567,
+        "other": 23
+      }
     }
   },
   "seasons_list": [

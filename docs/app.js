@@ -212,6 +212,9 @@ function updateOverviewTab(selectedSeason) {
 
     // 4. Render Points Table Rows
     renderPointsTable(sData.points_table);
+
+    // 5. Render Overview Charts (Toss & Win Type)
+    renderOverviewCharts(sData);
 }
 
 // Helper to update player cards (with cutout images)
@@ -438,4 +441,63 @@ function renderVenueTable() {
         `;
         venueTbody.appendChild(tr);
     });
+}
+
+// Render Overview charts (Toss Split and Outcome Split)
+function renderOverviewCharts(sData) {
+    if (!sData.toss_decision || !sData.win_type) return;
+
+    // 1. Toss Decisions Chart
+    const ctxToss = document.getElementById("chart-toss-decision").getContext("2d");
+    const tossInstance = new Chart(ctxToss, {
+        type: 'doughnut',
+        data: {
+            labels: ['Field First', 'Bat First'],
+            datasets: [{
+                data: [sData.toss_decision.field, sData.toss_decision.bat],
+                backgroundColor: [themeColors.wickets, themeColors.runs],
+                borderColor: '#112140',
+                borderWidth: 2
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: {
+                    position: 'bottom',
+                    labels: { color: '#FFF', boxWidth: 12 }
+                }
+            },
+            cutout: '70%'
+        }
+    });
+    registerChart("tossDecision", tossInstance);
+
+    // 2. Win Type Chart
+    const ctxWin = document.getElementById("chart-win-type").getContext("2d");
+    const winInstance = new Chart(ctxWin, {
+        type: 'doughnut',
+        data: {
+            labels: ['Chasing Wins (Wkts)', 'Defending Wins (Runs)', 'Other/Tie'],
+            datasets: [{
+                data: [sData.win_type.wickets, sData.win_type.runs, sData.win_type.other],
+                backgroundColor: [themeColors.wickets, themeColors.runs, themeColors.neutralDark],
+                borderColor: '#112140',
+                borderWidth: 2
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: {
+                    position: 'bottom',
+                    labels: { color: '#FFF', boxWidth: 12 }
+                }
+            },
+            cutout: '70%'
+        }
+    });
+    registerChart("winType", winInstance);
 }
