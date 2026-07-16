@@ -33,6 +33,8 @@ The dashboard utilizes official IPL brand design tokens:
 
 1.  **Overview (Home Page):**
     *   High-level metrics for selected seasons (centuries, matches, sixes, fours, boundaries).
+    *   **Toss Decisions Split:** A donut chart visual representing the ratio of choosing to bat first vs field first.
+    *   **Match Outcome Split:** A donut chart visual splitting match results into chasing wins (wickets), defending wins (runs), or ties/no-results.
     *   Dynamically changing champion and runner-up cards.
     *   Top 4 Cap cards with real player photo cutouts.
     *   Season-wise Points Table.
@@ -99,6 +101,14 @@ Create a new table named `_Measures` and insert the following DAX calculations:
             [InningsRuns] >= 100
         )
     )
+    ```
+*   **Chasing Wins (Wickets):**
+    ```dax
+    Chasing Wins = CALCULATE(COUNTROWS(ipl_matches_data), ipl_matches_data[win_by_wickets] > 0)
+    ```
+*   **Defending Wins (Runs):**
+    ```dax
+    Defending Wins = CALCULATE(COUNTROWS(ipl_matches_data), ipl_matches_data[win_by_runs] > 0)
     ```
 
 ---

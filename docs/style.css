@@ -375,6 +375,14 @@ h1, h2, h3, h4, .kpi-value {
     font-weight: 700;
 }
 
+.kpi-strip-value.accent-batting {
+    color: var(--accent-red); /* Gold highlight */
+}
+
+.kpi-strip-value.accent-metadata {
+    color: var(--accent-cyan); /* Blue highlight */
+}
+
 /* Bottom Grid: Player Caps vs Points Table */
 .overview-bottom-grid {
     display: grid;
